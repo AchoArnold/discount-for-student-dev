@@ -69,6 +69,9 @@ Table of Contents
 ## Domain Name Registers
 
   * [NameCheap](nic.me) -  One year domain name registration on the .me TLD (normally $8.99/year) via [Github Student Developer Pack](https://education.github.com/pack).
+  * [AlpNames - .party](http://register.party) - Free .party domains for one year (Coupon code on front page of the website)
+  * [AlpNames - .webcam](http://register.webcam) - Free .webcam domains for one year (Coupon code on front page of the website)
+  * [AlpNames - .science](http://register.science) - Free .science domains for one year (Coupon code on front page of the website)
 
 ## Security
 
