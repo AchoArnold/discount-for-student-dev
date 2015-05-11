@@ -21,6 +21,8 @@ Table of Contents
   * [Programming Help](#programming-help)
   * [Domain Name Registers](#domain-name-registers)
   * [Security](#security)
+  * [Modeling Tools](modeling-tools)
+  * [Visual Analytics](#visual-analytics)
   * [Other Packs](#other-packs)
 
 
@@ -76,7 +78,6 @@ Table of Contents
 
 ## Modeling Tools
 * [Astah](http://astah.net/student-license-request) One Year Professional License
-* 
 
 ## Visual Analytics
 * [Tableau Desktop](https://www.tableau.com/academic/students) One Year Professional License for Students.
