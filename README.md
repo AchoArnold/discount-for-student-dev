@@ -73,6 +73,7 @@ Table of Contents
 ## Security
 
   * [NameCheap](https://namecheap.com/) One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Jungl VPN] (http://www.jungl.me) For those working overseas or on restrictive networks - don't let that stop you coding or being able to access Github! Use coupon : DEVSCANBESTUDENTSTOO (limited to 100 uses)
 
 
 ## Other Packs
