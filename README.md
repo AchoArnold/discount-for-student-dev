@@ -21,6 +21,8 @@ Table of Contents
   * [Programming Help](#programming-help)
   * [Domain Name Registers](#domain-name-registers)
   * [Security](#security)
+  * [Modeling Tools](#modeling-tools)
+  * [Visual Analytics](#visual-analytics)
   * [Other Packs](#other-packs)
 
 
@@ -74,6 +76,11 @@ Table of Contents
 
   * [NameCheap](https://namecheap.com/) One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
 
+## Modeling Tools
+* [Astah](http://astah.net/student-license-request) One Year Professional License
+
+## Visual Analytics
+* [Tableau Desktop](https://www.tableau.com/academic/students) One Year Professional License for Students.
 
 ## Other Packs
 
