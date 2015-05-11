@@ -78,6 +78,7 @@ Table of Contents
 
 ## Modeling Tools
 * [Astah](http://astah.net/student-license-request) One Year Professional License
+* [Axure RP](http://www.axure.com/edu) Free educational license of Axure RP Pro
 
 ## Visual Analytics
 * [Tableau Desktop](https://www.tableau.com/academic/students) One Year Professional License for Students.
