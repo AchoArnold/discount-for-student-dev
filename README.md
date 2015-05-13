@@ -85,7 +85,7 @@ Table of Contents
 * [Tableau Desktop](https://www.tableau.com/academic/students) One Year Professional License for Students.
 
 ## 3D Animation and Modeling Software
-* [AUTODESK ENTERTAINMENT CREATION SUITE ULTIMATE](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) 3 -Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox
+* [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) 3 -Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox
 
 ## Other Packs
 
