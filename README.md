@@ -21,8 +21,9 @@ Table of Contents
   * [Programming Help](#programming-help)
   * [Domain Name Registers](#domain-name-registers)
   * [Security](#security)
-  * [Modeling Tools](#modeling-tools)
+  * [Software Modeling Tools](#software-modeling-tools)
   * [Visual Analytics](#visual-analytics)
+  * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
   * [Other Packs](#other-packs)
 
 
@@ -76,12 +77,15 @@ Table of Contents
 
   * [NameCheap](https://namecheap.com/) One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
 
-## Modeling Tools
+## Software Modeling Tools
 * [Astah](http://astah.net/student-license-request) One Year Professional License
 * [Axure RP](http://www.axure.com/edu) Free educational license of Axure RP Pro
 
 ## Visual Analytics
 * [Tableau Desktop](https://www.tableau.com/academic/students) One Year Professional License for Students.
+
+## 3D Animation and Modeling Software
+* [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) 3 -Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox
 
 ## Other Packs
 
