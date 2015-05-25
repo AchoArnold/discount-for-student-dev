@@ -44,6 +44,7 @@ Table of Contents
   * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $100 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
 
 ## SaaS
+
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) - Students save big with 60% off Creative Cloud.
 
 ## DBaaS
@@ -55,7 +56,8 @@ Table of Contents
   * [Send Grid](https://sendgrid.com/partner/github-education) - Student plan 15K free emails/month (normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## CI / CD
- * [Travis CI](https://travis-ci.org) - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
+
+  * [Travis CI](https://travis-ci.org) - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Payments
 
@@ -71,26 +73,28 @@ Table of Contents
 
 ## Domain Name Registers
 
-  * [NameCheap](nic.me) -  One year domain name registration on the .me TLD (normally $8.99/year) via [Github Student Developer Pack](https://education.github.com/pack).
+  * [NameCheap](nic.me) - One year domain name registration on the .me TLD (normally $8.99/year) via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Security
 
-  * [NameCheap](https://namecheap.com/) One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
+  * [NameCheap](https://namecheap.com/) - One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Software Modeling Tools
-* [Astah](http://astah.net/student-license-request) One Year Professional License
-* [Axure RP](http://www.axure.com/edu) Free educational license of Axure RP Pro
+
+  * [Astah](http://astah.net/student-license-request) - One Year Professional License
+  * [Axure RP](http://www.axure.com/edu) - Free educational license of Axure RP Pro
 
 ## Visual Analytics
-* [Tableau Desktop](https://www.tableau.com/academic/students) One Year Professional License for Students.
+
+  * [Tableau Desktop](https://www.tableau.com/academic/students) - One Year Professional License for Students.
 
 ## 3D Animation and Modeling Software
-* [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) 3 -Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox
+
+  * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) - 3-Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox
 
 ## Other Packs
 
   * [Microsoft DreamSpark](https://www.dreamspark.com/Student/Default.aspx) - DreamSpark is a Microsoft Program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes.
-
 
 
 # License
