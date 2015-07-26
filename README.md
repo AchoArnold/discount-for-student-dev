@@ -2,7 +2,8 @@
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
 This list is greatly inspired by the [free-for-dev list](https://github.com/ripienaar/free-for-dev)
 
-You can help by sending Pull Requests to add more services. Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
+You can help by sending Pull Requests to add more services. Please great the [contribution guidelines](contributing.md) first.
+Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
 
 If you're not inclined to make PRs you can tweet me at [@acho_arnold](https://twitter.com/acho_arnold)
 
@@ -101,11 +102,6 @@ Table of Contents
 ## Other Packs
 
   * [Microsoft DreamSpark](https://www.dreamspark.com/Student/Default.aspx) - DreamSpark is a Microsoft Program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes.
-
-
-# Contribute
-
-Contributions welcome! Read the contribution guidelines first.
 
 # License
 
