@@ -12,6 +12,7 @@ Table of Contents
 
   * [Source Code Repos](#source-code-repos)
   * [IDE and Code Editing](#ide-and-code-editing)
+  * [Version Control](#version-control)
   * [Web Hosting](#web-hosting)
   * [Design and Photo Editing](#design-and-photo-editing)
   * [SaaS](#saas)
@@ -37,9 +38,13 @@ Table of Contents
 
 ## IDE and Code Editing
 
-  * [PyCharm, PhpStorm, WebStorm, AppCode, CLion, RubyMine, IntelliJ IDEA](https://www.jetbrains.com/student/) - Free professional developer tools from JetBrains
-  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students
+  * [PyCharm, PhpStorm, WebStorm, AppCode, CLion, RubyMine, IntelliJ IDEA](https://www.jetbrains.com/student/) - Free professional developer tools from JetBrains.
+  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
   * [Xamarin IDE](http://xamarin.com/student) - IDE for using C# for iOS, Android, Mac & Windows platforms. Free for students.
+
+## Version Control
+
+  * [Tower](http://www.git-tower.com/buy) -  Version control with git made easy. Students get a 50% discount.
 
 ## Web Hosting
 
@@ -75,7 +80,7 @@ Table of Contents
 
 ## Programming Help
 
-  * [HackHands](https://hackhands.com/education/) - Live programming help available 24/7. $25 in platform credit to students via [Github Student Developer Pack](https://education.github.com/pack)
+  * [HackHands](https://hackhands.com/education/) - Live programming help available 24/7. $25 in platform credit to students via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Domain Name Registers
 
@@ -97,7 +102,7 @@ Table of Contents
 
 ## 3D Animation and Modeling Software
 
-  * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) - 3-Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox
+  * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) - 3-Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox.
 
 ## Other Packs
 
