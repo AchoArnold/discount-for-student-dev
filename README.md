@@ -16,11 +16,14 @@ Table of Contents
   * [DBaaS](#dbaas)
   * [Email](#email)
   * [CI / CD](#ci--cd)
-  * [Payments]($payments)
+  * [Payments](#payments)
   * [Management Systems](#management-systems)
-  * [Programming Help](#programming help)
+  * [Programming Help](#programming-help)
   * [Domain Name Registers](#domain-name-registers)
   * [Security](#security)
+  * [Software Modeling Tools](#software-modeling-tools)
+  * [Visual Analytics](#visual-analytics)
+  * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
   * [Other Packs](#other-packs)
 
 
@@ -41,6 +44,7 @@ Table of Contents
   * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $100 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
 
 ## SaaS
+
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) - Students save big with 60% off Creative Cloud.
 
 ## DBaaS
@@ -52,7 +56,8 @@ Table of Contents
   * [Send Grid](https://sendgrid.com/partner/github-education) - Student plan 15K free emails/month (normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## CI / CD
- * [Travis CI](https://travis-ci.org) - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
+
+  * [Travis CI](https://travis-ci.org) - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Payments
 
@@ -68,21 +73,37 @@ Table of Contents
 
 ## Domain Name Registers
 
-  * [NameCheap](nic.me) -  One year domain name registration on the .me TLD (normally $8.99/year) via [Github Student Developer Pack](https://education.github.com/pack).
+  * [NameCheap](nic.me) - One year domain name registration on the .me TLD (normally $8.99/year) via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Security
 
-  * [NameCheap](https://namecheap.com/) One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
+  * [NameCheap](https://namecheap.com/) - One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
 
+## Software Modeling Tools
+
+  * [Astah](http://astah.net/student-license-request) - One Year Professional License
+  * [Axure RP](http://www.axure.com/edu) - Free educational license of Axure RP Pro
+
+## Visual Analytics
+
+  * [CartoDB](https://cartodb.com/industries/education-and-research/) - Additional space & features for free accounts or 20% discount on paid accounts.
+  * [Tableau Desktop](https://www.tableau.com/academic/students) - One Year Professional License for Students.
+
+## 3D Animation and Modeling Software
+
+  * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) - 3-Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox
 
 ## Other Packs
 
   * [Microsoft DreamSpark](https://www.dreamspark.com/Student/Default.aspx) - DreamSpark is a Microsoft Program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes.
 
 
-
 # License
+<<<<<<< HEAD
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Acho Arnold](https://acho.arnold.cf) has waived all copyright and related or neighboring rights to this work.
+=======
+The content of this project itself is licensed under the [Creative Commons Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/legalcode), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
+>>>>>>> 83d980f5c1f8d875f2b0119e96eebee2b84b9b0f
