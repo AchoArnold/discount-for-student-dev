@@ -99,11 +99,7 @@ Table of Contents
 
 
 # License
-<<<<<<< HEAD
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Acho Arnold](https://acho.arnold.cf) has waived all copyright and related or neighboring rights to this work.
-=======
-The content of this project itself is licensed under the [Creative Commons Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/legalcode), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
->>>>>>> 83d980f5c1f8d875f2b0119e96eebee2b84b9b0f
