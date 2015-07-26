@@ -12,6 +12,7 @@ Table of Contents
   * [Source Code Repos](#source-code-repos)
   * [IDE and Code Editing](#ide-and-code-editing)
   * [Web Hosting](#web-hosting)
+  * [Design and Photo Editing](#design-and-photo-edititing)
   * [SaaS](#saas)
   * [DBaaS](#dbaas)
   * [Email](#email)
@@ -42,6 +43,10 @@ Table of Contents
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $100 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
+
+## Design and Photo Editing
+
+  * [Sketch](https://backend.bohemiancoding.com/store/edu/) - 50% off your copy of Sketch when you get an educational license.
 
 ## SaaS
 
@@ -97,6 +102,10 @@ Table of Contents
 
   * [Microsoft DreamSpark](https://www.dreamspark.com/Student/Default.aspx) - DreamSpark is a Microsoft Program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes.
 
+
+# Contribute
+
+Contributions welcome! Read the contribution guidelines first.
 
 # License
 
