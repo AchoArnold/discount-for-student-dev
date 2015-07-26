@@ -13,7 +13,7 @@ Table of Contents
   * [Source Code Repos](#source-code-repos)
   * [IDE and Code Editing](#ide-and-code-editing)
   * [Web Hosting](#web-hosting)
-  * [Design and Photo Editing](#design-and-photo-edititing)
+  * [Design and Photo Editing](#design-and-photo-editing)
   * [SaaS](#saas)
   * [DBaaS](#dbaas)
   * [Email](#email)
