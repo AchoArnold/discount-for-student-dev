@@ -1,4 +1,4 @@
-# discount-for-student-dev
+# discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
 This list is greatly inspired by the [free-for-dev list](https://github.com/ripienaar/free-for-dev)
 
