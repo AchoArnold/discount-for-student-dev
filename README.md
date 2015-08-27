@@ -80,7 +80,7 @@ Table of Contents
 
 ## Maps
 
-  * [Mapbox](https://www.mapbox.com/education/) - A mapping platform for developers. 5 GB of storage for your own custom data. Coupon: STANDARDEDU (till 1 Sep 2015).
+  * [Mapbox](https://www.mapbox.com/education/) - A mapping platform for developers. 5 GB of storage for your own custom data. 
 
 ## Programming Help
 
