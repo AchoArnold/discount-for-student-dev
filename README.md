@@ -17,6 +17,7 @@ Table of Contents
   * [Design and Photo Editing](#design-and-photo-editing)
   * [SaaS](#saas)
   * [DBaaS](#dbaas)
+  * [PaaS](#paas)
   * [Email](#email)
   * [CI / CD](#ci--cd)
   * [Payments](#payments)
@@ -62,6 +63,10 @@ Table of Contents
 
   * [Orchestrate](https://orchestrate.io/) - A complete database portfolio that includes search, time-series events, geolocation and graph queries through an API. Developer account (normally $49/month) while you're a student offered via [Github Student Developer Pack](https://education.github.com/pack).
 
+## PaaS
+
+  * [Amazon Web Services](https://www.awseducate.com/application) - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
+
 ## Emails
 
   * [Send Grid](https://sendgrid.com/partner/github-education) - Student plan 15K free emails/month (normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
@@ -80,7 +85,7 @@ Table of Contents
 
 ## Maps
 
-  * [Mapbox](https://www.mapbox.com/education/) - A mapping platform for developers. 5 GB of storage for your own custom data. 
+  * [Mapbox](https://www.mapbox.com/education/) - A mapping platform for developers. 5 GB of storage for your own custom data.
 
 ## Programming Help
 
