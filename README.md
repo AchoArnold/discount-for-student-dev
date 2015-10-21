@@ -49,7 +49,7 @@ Table of Contents
 
 ## Web Hosting
 
-  * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $100 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
+  * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Design and Photo Editing
 
