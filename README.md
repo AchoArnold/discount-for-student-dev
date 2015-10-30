@@ -54,7 +54,6 @@ Table of Contents
 ## Design and Photo Editing
 
   * [Sketch](https://backend.bohemiancoding.com/store/edu/) - 50% off your copy of Sketch when you get an educational license.
-  * [Axure](http://www.axure.com/edu) - Free prototyping software for students and teachers with proof of enrollment.
 
 ## SaaS
 
