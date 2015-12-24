@@ -65,7 +65,7 @@ Table of Contents
 
 ## PaaS
 
-  * [Amazon Web Services](https://www.awseducate.com/application) - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
+  * [Amazon Web Services](http://www.awseducate.com/application) - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
 
 ## Emails
 
