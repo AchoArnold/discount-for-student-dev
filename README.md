@@ -65,7 +65,7 @@ Table of Contents
 
 ## PaaS
 
-  * [Amazon Web Services](https://www.awseducate.com/application) - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
+  * [Amazon Web Services](http://www.awseducate.com/application) - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
 
 ## Emails
 
@@ -93,7 +93,7 @@ Table of Contents
 
 ## Domain Name Registers
 
-  * [NameCheap](nic.me) - One year domain name registration on the .me TLD (normally $8.99/year) via [Github Student Developer Pack](https://education.github.com/pack).
+  * [NameCheap](http://nic.me) - One year domain name registration on the .me TLD (normally $8.99/year) via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Security
 
@@ -123,4 +123,4 @@ Table of Contents
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Acho Arnold](https://acho.arnold.cf) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Acho Arnold](https://github.com/najela) has waived all copyright and related or neighboring rights to this work.
