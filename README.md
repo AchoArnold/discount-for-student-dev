@@ -105,6 +105,7 @@ Table of Contents
   * [Axure RP](http://www.axure.com/edu) - Free educational license of Axure RP Pro
   * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic) - Visual database design online.
   * [Invision](http://www.invisionapp.com/education-signup) - Prototyping and Mockup tool
+  * [Framer](http://framerjs.com/pricing/) - Prototyping tool. 50% off when you get an educational license.
 
 ## Visual Analytics
 
