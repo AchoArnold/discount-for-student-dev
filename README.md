@@ -108,7 +108,7 @@ Table of Contents
 
 ## Visual Analytics
 
-  * [CartoDB](https://cartodb.com/industries/education-and-research/) - Additional space & features for free accounts or 20% discount on paid accounts.
+  * [CartoDB](https://cartodb.com/solutions/education-and-research/) - Additional space & features for free accounts or 20% discount on paid accounts.
   * [Tableau Desktop](https://www.tableau.com/academic/students) - One Year Professional License for Students.
 
 ## 3D Animation and Modeling Software
