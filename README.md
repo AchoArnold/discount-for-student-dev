@@ -103,7 +103,7 @@ Table of Contents
 
   * [Astah](http://astah.net/student-license-request) - One Year Professional License
   * [Axure RP](http://www.axure.com/edu) - Free educational license of Axure RP Pro
-  * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic) - Visual database design online.
+  * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic) - Visual database design online. 100% free academic accounts for students and lecturers who are learning or teaching database modeling.
   * [Invision](http://www.invisionapp.com/education-signup) - Prototyping and Mockup tool
   * [Framer](http://framerjs.com/pricing/) - Prototyping tool. 50% off when you get an educational license.
 
