@@ -93,7 +93,7 @@ Table of Contents
 
 ## Domain Name Registers
 
-  * [NameCheap](http://nic.me) - One year domain name registration on the .me TLD (normally $8.99/year) via [Github Student Developer Pack](https://education.github.com/pack).
+  * [NameCheap](http://nc.me) - One year domain name registration on the .me TLD (normally $18.99/year) via [Github Student Developer Pack](https://education.github.com/pack)
 
 ## Security
 
