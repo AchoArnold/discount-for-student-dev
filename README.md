@@ -66,6 +66,7 @@ Table of Contents
 ## PaaS
 
   * [Amazon Web Services](http://www.awseducate.com/application) - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
+  * [Microsoft Dev Essentials](https://www.visualstudio.com/en-us/products/visual-studio-dev-essentials-vs.aspx) - Free $25 monthly Azure Credits to host websites and app backends, loads of training material from partners
 
 ## Emails
 
