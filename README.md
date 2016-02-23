@@ -120,6 +120,7 @@ Table of Contents
 ## Other Packs
 
   * [Microsoft DreamSpark](https://www.dreamspark.com/Student/Default.aspx) - DreamSpark is a Microsoft Program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes.
+  * [Intel Tools for Students] (https://software.intel.com/en-us/qualify-for-free-software/student) - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
 
 # License
 
