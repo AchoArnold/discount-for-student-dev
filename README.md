@@ -46,6 +46,7 @@ Table of Contents
 ## Version Control
 
   * [Tower](http://www.git-tower.com/buy) -  Version control with git made easy. Students get a 50% discount.
+  * [BitBucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp) -  Collaborate on code and manage your Git repositories to build and ship software, as a team. Students get a free BitBucket account.
 
 ## Web Hosting
 
