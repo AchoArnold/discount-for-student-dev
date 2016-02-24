@@ -46,6 +46,7 @@ Table of Contents
 ## Version Control
 
   * [Tower](http://www.git-tower.com/buy) -  Version control with git made easy. Students get a 50% discount.
+  * [BitBucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp) -  Collaborate on code and manage your Git repositories to build and ship software, as a team. Students get a free BitBucket account.
 
 ## Web Hosting
 
@@ -119,6 +120,7 @@ Table of Contents
 ## Other Packs
 
   * [Microsoft DreamSpark](https://www.dreamspark.com/Student/Default.aspx) - DreamSpark is a Microsoft Program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes.
+  * [Intel Tools for Students] (https://software.intel.com/en-us/qualify-for-free-software/student) - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
 
 # License
 
