@@ -1,6 +1,6 @@
 # discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
-This list is greatly inspired by the [free-for-dev list](https://github.com/ripienaar/free-for-dev)
+This list is greatly inspired by the [free-for-dev list](https://github.com/ripienaar/free-for-dev).
 
 You can help by sending Pull Requests to add more services. Please great the [contribution guidelines](contributing.md) first.
 Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
@@ -51,7 +51,7 @@ Table of Contents
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
-
+  * [Gwiddle](https://gwiddle.co.uk) - Gwiddle provides hosting for 2 websites, 5 mail account, 4 MySQL DBs, 4 cron jobs, 1.5GB bandwith, and 2GB diskspace free to students. Includes online control panel, custom and subdomain support, and free storage upgrades for sites that are "solely educationl in nature." Supports externally purchased SSL certs for HTTPS (use [Let's Encrypt](https://letsencrypt.org) to get one free).
 ## Design and Photo Editing
 
   * [Sketch](https://backend.bohemiancoding.com/store/edu/) - 50% off your copy of Sketch when you get an educational license.
