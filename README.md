@@ -84,7 +84,7 @@ Table of Contents
 ## Management Systems
 
   * [Bitnami](https://bitnami.com) - Install cloud applications in a single click. Business 3 plan (normally $49/month) for one year available via [Github Student Developer Pack](https://education.github.com/pack).
-  * [Yellow Circle](http://yellowcircle.net) - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
+  * [Yellow Circle](http://www.yellowcircle.net) - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
 
 ## Maps
 
@@ -122,7 +122,7 @@ Table of Contents
 ## Other Packs
 
   * [Microsoft DreamSpark](https://www.dreamspark.com/Student/Default.aspx) - DreamSpark is a Microsoft Program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes.
-  * [Intel Tools for Students] (https://software.intel.com/en-us/qualify-for-free-software/student) - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
+  * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
 
 # License
 
