@@ -27,7 +27,7 @@ Table of Contents
   * [Security](#security)
   * [Software Modeling Tools](#software-modeling-tools)
   * [Visual Analytics](#visual-analytics)
-  * [Game Development Tools](#game-dev-tools)
+  * [Game Development Tools](#game-development-tools)
   * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
   * [Other Packs](#other-packs)
 
@@ -116,11 +116,11 @@ Table of Contents
   * [CartoDB](https://cartodb.com/solutions/education-and-research/) - Additional space & features for free accounts or 20% discount on paid accounts.
   * [Tableau Desktop](https://www.tableau.com/academic/students) - One Year Professional License for Students.
   * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html) and [SAS OnDemand Academic](http://www.sas.com/en_us/industry/higher-education/on-demand-for-academics.html) - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on the prepackaged VM and hosts SAS Studio for use with a browser on the host computer. SAS OnDemand hosts SAS Studio for use in the cloud without installation. Both are free for students and teachers at any level.
- 
-## Game Developer Tools
- * [Unity3D](https://unity3d.com/education) - Unity is one of the world's most widely used game engines. It has created industry standards in 3D interactive content design for game development, architectural visualizations, military simulations, advertising and more. Students are offered a yearly licence of $100 USD.
- * [Unreal Game Engine](https://www.unrealengine.com/education) - Epic Games is committed to supporting students and schools, and helping companies that license Unreal Engine 4 find and hire qualified developers. Part of the [Github Student Developer Pack](https://education.github.com/pack)
- * [Steam Developers](https://www.steampowered.com/steamworks/developmenttools.php) - Steamworks improves the development of your game. Share your game in-progress with remote team members or participants in a private beta. 
+
+## Game Development Tools
+
+ * [Unity3D](https://unity3d.com/education) - Unity is one of the world's most widely used game engines. It has created industry standards in 3D interactive content design for game development, architectural visualizations, military simulations, advertising and more. Students are offered a yearly license of $100 USD.
+ * [Unreal Game Engine](https://www.unrealengine.com/education) - Unreal Engine 4 is a complete suite of game development tools. From 2D mobile games to console blockbusters and VR, Unreal Engine 4 gives you everything you need to start, ship, grow and stand out from the crowd. Part of the [Github Student Developer Pack](https://education.github.com/pack)
 
 ## 3D Animation and Modeling Software
 
@@ -135,4 +135,4 @@ Table of Contents
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Acho Arnold](https://github.com/najela) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Acho Arnold](https://acho.arnold.cf/) has waived all copyright and related or neighboring rights to this work.
