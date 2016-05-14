@@ -35,7 +35,7 @@ Table of Contents
 ## Source Code Repos
 
   * [Bitbucket](https://bitbucket.org/) - Free unlimited public and private repositories for academic users and teams.
-  * [GitHub](https://education.github.com/pack) -  Micro account (normally $7/month) with five private repositories while you're a student.
+  * [GitHub](https://education.github.com/pack) -  Micro account (normally $7/month) with unlimited private repositories while you're a student.
 
 
 ## IDE and Code Editing
