@@ -70,7 +70,7 @@ Table of Contents
 
   * [Amazon Web Services](http://www.awseducate.com/application) - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
 
-## Emails
+## Email
 
   * [Send Grid](https://sendgrid.com/partner/github-education) - Student plan 15K free emails/month (normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
 
