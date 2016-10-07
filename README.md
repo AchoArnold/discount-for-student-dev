@@ -29,7 +29,9 @@ Table of Contents
   * [Visual Analytics](#visual-analytics)
   * [Game Development Tools](#game-development-tools)
   * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
+  * [Password Managers](#password-managers)
   * [Other Packs](#other-packs)
+
 
 
 ## Source Code Repos
@@ -126,7 +128,11 @@ Table of Contents
 
 ## 3D Animation and Modeling Software
 
-  * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) - 3-Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox.
+ * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) - 3-Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox.
+
+## Password Managers
+
+ * [LastPass](https://lastpass.com/edupromo.php) - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
 
 ## Other Packs
 
