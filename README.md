@@ -37,7 +37,7 @@ Table of Contents
 ## Source Code Repos
 
   * [Bitbucket](https://bitbucket.org/) - Free unlimited public and private repositories for academic users and teams.
-  * [GitHub](https://education.github.com/pack) -  Micro account (normally $7/month) with unlimited private repositories while you're a student.
+  * [GitHub](https://education.github.com/pack) -  Personal account (normally $7/month) with unlimited private repositories while you're a student.
 
 
 ## IDE and Code Editing
@@ -55,7 +55,7 @@ Table of Contents
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
-  * [Gwiddle](https://gwiddle.co.uk) - Gwiddle provides hosting for 2 websites, 5 mail accounts, 4 MySQL DBs, 4 cron jobs, 1.5GB bandwith, and 2GB diskspace free to verified students. Includes online control panel, custom and subdomain support, and free storage upgrades for sites that are "solely educational in nature." Supports externally purchased SSL certs for HTTPS (use [Let's Encrypt](https://letsencrypt.org) to get one free).
+  * [Gwiddle](https://gwiddle.co.uk) - Gwiddle provides hosting for 2 websites, 5 mail accounts, 4 MySQL DBs, 4 cron jobs, 1.5GB bandwidth, and 2GB diskspace free to verified students. Includes online control panel, custom and subdomain support, and free storage upgrades for sites that are "solely educational in nature." Supports externally purchased SSL certs for HTTPS (use [Let's Encrypt](https://letsencrypt.org) to get one free).
 
 ## Design and Photo Editing
 
@@ -80,7 +80,7 @@ Table of Contents
 ## CI / CD
 
   * [Travis CI](https://travis-ci.org) - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
-  * [StyleCI](https://styleci.io/) - Free Student Plan with access to StyleCI for up to five private repositories. Student Discount Scheme entitles upto 50% off all other plans [support](https://blog.alt-three.com/student-discount-scheme/)
+  * [StyleCI](https://styleci.io/) - Free Student Plan with access to StyleCI for up to five private repositories. Student Discount Scheme entitles up to 50% off all other plans [support](https://blog.alt-three.com/student-discount-scheme/)
 
 ## Payments
 
@@ -94,6 +94,10 @@ Table of Contents
 ## Maps
 
   * [Mapbox](https://www.mapbox.com/education/) - A mapping platform for developers. 5 GB of storage for your own custom data.
+
+## Localization
+
+    * [Transifex](https://www.transifex.com) - A localization platform for translating digital content. 1 Free Year worth $99/month available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Programming Help
 
