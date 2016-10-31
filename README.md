@@ -22,6 +22,8 @@ Table of Contents
   * [CI / CD](#ci--cd)
   * [Payments](#payments)
   * [Management Systems](#management-systems)
+  * [Mapping](#maps)
+  * [Localization](#localization)
   * [Programming Help](#programming-help)
   * [Domain Name Registers](#domain-name-registers)
   * [Security](#security)
@@ -97,7 +99,7 @@ Table of Contents
 
 ## Localization
 
-    * [Transifex](https://www.transifex.com) - A localization platform for translating digital content. 1 Free Year worth $99/month available via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Transifex](https://www.transifex.com) - A localization platform for translating digital content. 1 Free Year worth $99/month available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Programming Help
 
