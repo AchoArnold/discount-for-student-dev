@@ -141,9 +141,9 @@ Table of Contents
 
  * [LastPass](https://lastpass.com/edupromo.php) - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
 
-## Other Packs
+## Software Packs
 
-  * [Microsoft DreamSpark](https://www.dreamspark.com/Student/Default.aspx) - DreamSpark is a Microsoft Program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes.
+  * [Microsoft Imagine (formerly DreamSpark)](https://imagine.microsoft.com/) - Imagine is a Microsoft program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes. Currently includes SQL Server, Windows Server 2008-12, and Windows 8 Embedded Industry Pro. Most students are also eligible for a free Windows 10 license through [OnTheHub](http://onthehub.com/download/free-software/windows-10-education-for-students/).
   * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
 
 # License
