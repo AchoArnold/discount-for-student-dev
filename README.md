@@ -58,6 +58,7 @@ Table of Contents
 
   * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
   * [Gwiddle](https://gwiddle.co.uk) - Gwiddle provides hosting for 2 websites, 5 mail accounts, 4 MySQL DBs, 4 cron jobs, 1.5GB bandwidth, and 2GB diskspace free to verified students. Includes online control panel, custom and subdomain support, and free storage upgrades for sites that are "solely educational in nature." Supports externally purchased SSL certs for HTTPS (use [Let's Encrypt](https://letsencrypt.org) to get one free).
+  * [RoseHosting](https://www.rosehosting.com)  - RoseHosting offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code "STUDENT20". Valid for new customers only. Cannot be combined with any other offer.
 
 ## Design and Photo Editing
 
