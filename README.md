@@ -48,6 +48,7 @@ Table of Contents
   * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
   * [Xamarin IDE](http://xamarin.com/student) - IDE for using C# for iOS, Android, Mac & Windows platforms. Free for students.
   * [Visual Studio Community 2015](https://www.visualstudio.com/vs/community/) - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
+  * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) - IDE that creates responsive websites using the Bootstrap framework. Free for students.
 
 ## Version Control
 
