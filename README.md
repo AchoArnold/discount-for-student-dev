@@ -54,7 +54,8 @@ Table of Contents
 
   * [Tower](http://www.git-tower.com/buy) -  Version control with git made easy. Students get a 50% discount.
   * [BitBucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp) -  Collaborate on code and manage your Git repositories to build and ship software, as a team. Students get a free BitBucket account.
-
+  * [GitKraken](https://www.gitkraken.com/github-student-developer-pack) - Another free as in price desktop Git client. Based on Electron, runs on Windows, GNU/Linux, and Mac. To claim free 1-year PRO license, you must claim your [Github Student Developer Pack](https://education.github.com/pack) and sign in to the desktop client w/ GitHub.
+  
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
