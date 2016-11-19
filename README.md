@@ -38,7 +38,7 @@ Table of Contents
 
 ## Source Code Repos
 
-  * [Bitbucket](https://bitbucket.org/) - Free unlimited public and private repositories for academic users and teams.
+  * [Bitbucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp) - Cloud-based Git hosting, collaboration. Free unlimited public and private repositories for academic users and teams.
   * [GitHub](https://education.github.com/pack) -  Personal account (normally $7/month) with unlimited private repositories while you're a student.
 
 
@@ -53,7 +53,6 @@ Table of Contents
 ## Version Control
 
   * [Tower](http://www.git-tower.com/buy) -  Version control with git made easy. Students get a 50% discount.
-  * [BitBucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp) -  Collaborate on code and manage your Git repositories to build and ship software, as a team. Students get a free BitBucket account.
 
 ## Web Hosting
 
