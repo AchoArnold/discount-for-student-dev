@@ -16,7 +16,6 @@ Table of Contents
   * [Web Hosting](#web-hosting)
   * [Design and Photo Editing](#design-and-photo-editing)
   * [SaaS](#saas)
-  * [DBaaS](#dbaas)
   * [PaaS](#paas)
   * [Email](#email)
   * [CI / CD](#ci--cd)
