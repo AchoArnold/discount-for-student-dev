@@ -54,7 +54,7 @@ Table of Contents
 
   * [Tower](http://www.git-tower.com/buy) -  Version control with git made easy. Students get a 50% discount.
   * [GitKraken](https://www.gitkraken.com/github-student-developer-pack) - Another free as in price desktop Git client. Based on Electron, runs on Windows, GNU/Linux, and Mac. To claim free 1-year PRO license, you must claim your [Github Student Developer Pack](https://education.github.com/pack) and sign in to the desktop client w/ GitHub.
-  
+
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
@@ -68,10 +68,6 @@ Table of Contents
 ## SaaS
 
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) - Students save big with 60% off Creative Cloud.
-
-## DBaaS
-
-  * [Orchestrate](https://orchestrate.io/) - A complete database portfolio that includes search, time-series events, geolocation and graph queries through an API. Developer account (normally $49/month) while you're a student offered via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## PaaS
 
