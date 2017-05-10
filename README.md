@@ -79,7 +79,7 @@ Table of Contents
 ## CI / CD
 
   * [Travis CI](https://travis-ci.org) - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
-  * [StyleCI](https://styleci.io/) - Free Student Plan with access to StyleCI for up to five private repositories. Student Discount Scheme entitles up to 50% off all other plans [support](https://blog.alt-three.com/student-discount-scheme/)
+  * [StyleCI](https://blog.alt-three.com/introducing-the-student-plan/) - Free Student Plan with access to StyleCI for up to five private repositories.
 
 ## Payments
 
