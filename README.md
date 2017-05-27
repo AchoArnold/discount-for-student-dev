@@ -49,6 +49,10 @@ Table of Contents
   * [Visual Studio Community 2015](https://www.visualstudio.com/vs/community/) - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) - IDE that creates responsive websites using the Bootstrap framework. Free for students.
 
+
+## Code analysis
+  * [CppCat](http://www.viva64.com/en/b/0290/) - Static code analyzer integrating into the Visual Studio 2010-2013 environment
+
 ## Version Control
 
   * [Tower](http://www.git-tower.com/buy) -  Version control with git made easy. Students get a 50% discount.
