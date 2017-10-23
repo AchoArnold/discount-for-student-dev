@@ -31,6 +31,7 @@ Table of Contents
   * [Game Development Tools](#game-development-tools)
   * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
   * [Password Managers](#password-managers)
+  * [Infrastructure Monitoring](#infrastructure-monitoring)
   * [Other Packs](#other-packs)
 
 
