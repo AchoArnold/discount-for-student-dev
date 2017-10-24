@@ -31,6 +31,7 @@ Table of Contents
   * [Game Development Tools](#game-development-tools)
   * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
   * [Password Managers](#password-managers)
+  * [Infrastructure Monitoring](#infrastructure-monitoring)
   * [Other Packs](#other-packs)
 
 
@@ -136,6 +137,9 @@ Table of Contents
 ## Password Managers
 
  * [LastPass](https://lastpass.com/edupromo.php) - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
+
+## Infrastructure Monitoring
+ * [Datadog](http://studentpack.datadoghq.com/) - 2-Year License for a Datadog Pro account, good for monitoring 10 servers. Part of the [Github Student Developer Pack](https://education.github.com/pack)
 
 ## Software Packs
 
