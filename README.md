@@ -135,7 +135,7 @@ Table of Contents
  * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) - 3-Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox.
 
 ## Password Managers
-
+ * [RoboForm](https://www.roboform.com/promotions/college) - Completely free for students and professors with a valid college or university email address (normally $19.95/year)
  * [LastPass](https://lastpass.com/edupromo.php) - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
 
 ## Infrastructure Monitoring
