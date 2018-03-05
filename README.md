@@ -16,7 +16,6 @@ Table of Contents
   * [Web Hosting](#web-hosting)
   * [Design and Photo Editing](#design-and-photo-editing)
   * [SaaS](#saas)
-  * [DBaaS](#dbaas)
   * [PaaS](#paas)
   * [Email](#email)
   * [CI / CD](#ci--cd)
@@ -32,6 +31,7 @@ Table of Contents
   * [Game Development Tools](#game-development-tools)
   * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
   * [Password Managers](#password-managers)
+  * [Infrastructure Monitoring](#infrastructure-monitoring)
   * [Other Packs](#other-packs)
 
 
@@ -47,18 +47,18 @@ Table of Contents
   * [PyCharm, PhpStorm, WebStorm, AppCode, CLion, RubyMine, IntelliJ IDEA](https://www.jetbrains.com/student/) - Free professional developer tools from JetBrains.
   * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
   * [Xamarin IDE](http://xamarin.com/student) - IDE for using C# for iOS, Android, Mac & Windows platforms. Free for students.
-  * [Visual Studio Community 2015](https://www.visualstudio.com/vs/community/) - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
+  * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) - IDE that creates responsive websites using the Bootstrap framework. Free for students.
 
 ## Version Control
 
   * [Tower](http://www.git-tower.com/buy) -  Version control with git made easy. Students get a 50% discount.
   * [GitKraken](https://www.gitkraken.com/github-student-developer-pack) - Another free as in price desktop Git client. Based on Electron, runs on Windows, GNU/Linux, and Mac. To claim free 1-year PRO license, you must claim your [Github Student Developer Pack](https://education.github.com/pack) and sign in to the desktop client w/ GitHub.
-  
+
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
-  * [Gwiddle](https://gwiddle.co.uk) - Gwiddle provides hosting for 2 websites, 5 mail accounts, 4 MySQL DBs, 4 cron jobs, 1.5GB bandwidth, and 2GB diskspace free to verified students. Includes online control panel, custom and subdomain support, and free storage upgrades for sites that are "solely educational in nature." Supports externally purchased SSL certs for HTTPS (use [Let's Encrypt](https://letsencrypt.org) to get one free).
+  * [Gwiddle](https://gwiddle.co.uk) - Gwiddle provides hosting for 2 websites, 10 mail accounts, 4 MySQL DBs, and 3GB bandwidth and diskspace free to verified students. Includes online Plesk control panel and the ability to bring your own domain name. Supports free SSL certificates via [Let's Encrypt](https://letsencrypt.org).
   * [RoseHosting](https://www.rosehosting.com)  - RoseHosting offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code "STUDENT20". Valid for new customers only. Cannot be combined with any other offer.
 
 ## Design and Photo Editing
@@ -68,10 +68,6 @@ Table of Contents
 ## SaaS
 
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) - Students save big with 60% off Creative Cloud.
-
-## DBaaS
-
-  * [Orchestrate](https://orchestrate.io/) - A complete database portfolio that includes search, time-series events, geolocation and graph queries through an API. Developer account (normally $49/month) while you're a student offered via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## PaaS
 
@@ -84,7 +80,7 @@ Table of Contents
 ## CI / CD
 
   * [Travis CI](https://travis-ci.org) - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
-  * [StyleCI](https://styleci.io/) - Free Student Plan with access to StyleCI for up to five private repositories. Student Discount Scheme entitles up to 50% off all other plans [support](https://blog.alt-three.com/student-discount-scheme/)
+  * [StyleCI](https://blog.alt-three.com/introducing-the-student-plan/) - Free Student Plan with access to StyleCI for up to five private repositories.
 
 ## Payments
 
@@ -139,8 +135,11 @@ Table of Contents
  * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) - 3-Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox.
 
 ## Password Managers
-
+ * [RoboForm](https://www.roboform.com/promotions/college) - Completely free for students and professors with a valid college or university email address (normally $19.95/year)
  * [LastPass](https://lastpass.com/edupromo.php) - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
+
+## Infrastructure Monitoring
+ * [Datadog](http://studentpack.datadoghq.com/) - 2-Year License for a Datadog Pro account, good for monitoring 10 servers. Part of the [Github Student Developer Pack](https://education.github.com/pack)
 
 ## Software Packs
 
