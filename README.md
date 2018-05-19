@@ -50,6 +50,7 @@ Table of Contents
   * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) - IDE that creates responsive websites using the Bootstrap framework. Free for students.
   * [MATLAB](https://in.mathworks.com/academia/student_version.html) - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.Discounted Price for Students.
+  * [ShiftEdit](https://shiftedit.net/) - ShiftEdit is a powerful online IDE for developing websites.Education Discount available for Students.
   
 ## Version Control
 
