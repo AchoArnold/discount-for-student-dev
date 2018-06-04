@@ -49,11 +49,14 @@ Table of Contents
   * [Xamarin IDE](http://xamarin.com/student) - IDE for using C# for iOS, Android, Mac & Windows platforms. Free for students.
   * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) - IDE that creates responsive websites using the Bootstrap framework. Free for students.
-
+  * [MATLAB](https://in.mathworks.com/academia/student_version.html) - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.Discounted Price for Students.
+  * [ShiftEdit](https://shiftedit.net/) - ShiftEdit is a powerful online IDE for developing websites. Get 50 Education Licences for only $750 per year.
+  
 ## Version Control
 
   * [Tower](http://www.git-tower.com/buy) -  Version control with git made easy. Students get a 50% discount.
   * [GitKraken](https://www.gitkraken.com/github-student-developer-pack) - Another free as in price desktop Git client. Based on Electron, runs on Windows, GNU/Linux, and Mac. To claim free 1-year PRO license, you must claim your [Github Student Developer Pack](https://education.github.com/pack) and sign in to the desktop client w/ GitHub.
+  * [Sentry](https://sentry.io/for/education/) - Open-source error tracking that helps developers monitor and fix crashes in real time.Also included via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Web Hosting
 
@@ -91,6 +94,8 @@ Table of Contents
 
   * [Bitnami](https://bitnami.com) - Install cloud applications in a single click. Business 3 plan (normally $49/month) for one year available via [Github Student Developer Pack](https://education.github.com/pack).
   * [Yellow Circle](http://www.yellowcircle.net) - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
+  * [Orchestrate](https://orchestrate.io/) - Orchestrate is a complete database portfolio that includes search, time-series events, geolocation and graph queries through an API. You can host your data on a public cloud, such as in CenturyLink data centers, or use Orchestrate Enterprise’s dedicated clusters.[Github Student Developer Pack](https://education.github.com/pack) members receive a free developer account (normally $49/month).
+  * [Vertabelo](http://www.vertabelo.com/) - Fully-featured online tool for database design.Free for Educational Purposes.
 
 ## Maps
 
@@ -103,6 +108,8 @@ Table of Contents
 ## Programming Help
 
   * [HackHands](https://hackhands.com/education/) - Live programming help available 24/7. $25 in platform credit to students via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Evernote](https://evernote.com/students) - Capture, organize, and share notes from anywhere.Get 50% off a full year of Evernote Premium.
+  
 
 ## Domain Name Registers
 
@@ -125,6 +132,7 @@ Table of Contents
   * [CartoDB](https://cartodb.com/solutions/education-and-research/) - Additional space & features for free accounts or 20% discount on paid accounts.
   * [Tableau Desktop](https://www.tableau.com/academic/students) - One Year Professional License for Students.
   * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html) and [SAS OnDemand Academic](http://www.sas.com/en_us/industry/higher-education/on-demand-for-academics.html) - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on the prepackaged VM and hosts SAS Studio for use with a browser on the host computer. SAS OnDemand hosts SAS Studio for use in the cloud without installation. Both are free for students and teachers at any level.
+ 
 
 ## Game Development Tools
 
@@ -147,6 +155,8 @@ Table of Contents
   * [Microsoft Imagine (formerly DreamSpark)](https://imagine.microsoft.com/) - Imagine is a Microsoft program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes. Currently includes SQL Server 2012, 2014, and 2016; Windows Server 2008 R2, 2012 R2, and 2016 in DataCenter, Standard, and Essentials and Windows 8.1 Embedded Industry Pro. Also offers a free Azure App service plan (no credit card). Most students are also eligible for a free Windows 10 license through their school's [OnTheHub WebStore](http://onthehub.com/download/free-software/windows-10-education-for-students/).
   * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
   * [IBM Student Developer Community](https://developer.ibm.com/students/) - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
+  * [Figure Eight](https://www.figure-eight.com/) - CrowdFlower is now Figure Eight.Figure Eight is the essential Human-in-the-Loop AI platform for data science & machine learning teams.
+  * [Exploratory](https://exploratory.io/) - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
