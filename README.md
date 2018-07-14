@@ -84,6 +84,7 @@ Table of Contents
 
   * [Travis CI](https://travis-ci.org) - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
   * [StyleCI](https://blog.alt-three.com/introducing-the-student-plan/) - Free Student Plan with access to StyleCI for up to five private repositories.
+  * [Semaphore](http://semaphoreci.com/docs/education-plans.html) - Free account for students and educators with a 25% discount for qualifying schools and institutions.
 
 ## Payments
 
