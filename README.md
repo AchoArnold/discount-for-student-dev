@@ -75,6 +75,7 @@ Table of Contents
 ## PaaS
 
   * [Amazon Web Services](http://www.awseducate.com/application) - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
+  * [Google Cloud Platform](https://cloud.google.com) - Access Cloud Services and G-Suite either on a trial of 14 days or register for one year through educational license or by card details.
 
 ## Email
 
