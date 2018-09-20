@@ -38,19 +38,19 @@ Table of Contents
 
 ## Source Code Repos
 
-  * [Bitbucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp) - Free unlimited public and private repositories for academic users and teams.
-  * [GitHub](https://education.github.com/pack) -  Personal account (normally $7/month) with unlimited private repositories while you're a student.
+  * [Bitbucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp) [FREE] - Free unlimited public and private repositories for academic users and teams.
+  * [GitHub](https://education.github.com/pack) [FREE] -  Personal account (normally $7/month) with unlimited private repositories while you're a student.
 
 
 ## IDE and Code Editing
 
-  * [PyCharm, PhpStorm, WebStorm, AppCode, CLion, RubyMine, IntelliJ IDEA](https://www.jetbrains.com/student/) - Free professional developer tools from JetBrains.
-  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
-  * [Xamarin IDE](http://xamarin.com/student) - IDE for using C# for iOS, Android, Mac & Windows platforms. Free for students.
-  * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
-  * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) - IDE that creates responsive websites using the Bootstrap framework. Free for students.
-  * [MATLAB](https://in.mathworks.com/academia/student_version.html) - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.Discounted Price for Students.
-  * [ShiftEdit](https://shiftedit.net/) - ShiftEdit is a powerful online IDE for developing websites. Get 50 Education Licences for only $750 per year.
+  * [PyCharm, PhpStorm, WebStorm, AppCode, CLion, RubyMine, IntelliJ IDEA](https://www.jetbrains.com/student/) [FREE] - Professional developer tools from JetBrains.
+  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
+  * [Xamarin IDE](http://xamarin.com/student) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
+  * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) [FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
+  * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) [FREE] - IDE that creates responsive websites using the Bootstrap framework.
+  * [MATLAB](https://in.mathworks.com/academia/student_version.html) [DISCOUNTED] - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.
+  * [ShiftEdit](https://shiftedit.net/) [DISCOUNT] - ShiftEdit is a powerful online IDE for developing websites. Discount for educations. $750 a year for 50 licenses.
   
 ## Version Control
 
