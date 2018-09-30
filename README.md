@@ -113,7 +113,8 @@ Table of Contents
 
 ## Domain Name Registers
 
-  * [NameCheap](http://nc.me) [CREDIT] - One year domain name registration on the .me TLD (normally $18.99/year) via [Github Student Developer Pack](https://education.github.com/pack)
+  * [NameCheap](http://nc.me) [FREE/DISCOUNT] - One year domain name registration on the .me TLD, and deeply discounted registrations on .io, .tech, .com, and .website. Inludes optional free year of hosted Ghost blogging platform or Exposure photo website.
+  * [.tech](https://get.tech/students) [DISCOUNT] - One year registration on .tech TLD for $0.99, with free renewals for referrals.
 
 ## Security
 
