@@ -51,7 +51,7 @@ Table of Contents
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) [FREE] - IDE that creates responsive websites using the Bootstrap framework.
   * [MATLAB](https://in.mathworks.com/academia/student_version.html) [DISCOUNT] - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.
   * [ShiftEdit](https://shiftedit.net/) [DISCOUNT] - ShiftEdit is a powerful online IDE for developing websites. Discount for educations. $750 a year for 50 licenses.
-  
+
 ## Version Control
 
   * [Tower](http://www.git-tower.com/buy) [DISCOUNT] -  Version control with git made easy.
@@ -109,7 +109,7 @@ Table of Contents
 
   * [HackHands](https://hackhands.com/education/) [CREDIT]- Live programming help available 24/7. $25 in platform credit to students via [Github Student Developer Pack](https://education.github.com/pack).
   * [Evernote](https://evernote.com/students) [DISCOUNT] - Capture, organize, and share notes from anywhere. Get 50% off a full year of Evernote Premium.
-  
+
 
 ## Domain Name Registers
 
@@ -133,7 +133,7 @@ Table of Contents
   * [CartoDB](https://cartodb.com/solutions/education-and-research/) [FREE / DISCOUNT] - Additional space & features for free accounts or 20% discount on paid accounts.
   * [Tableau Desktop](https://www.tableau.com/academic/students) [FREE] - One Year Professional License for Students.
   * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html) and [SAS OnDemand Academic](http://www.sas.com/en_us/industry/higher-education/on-demand-for-academics.html) [FREE] - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on the prepackaged VM and hosts SAS Studio for use with a browser on the host computer. SAS OnDemand hosts SAS Studio for use in the cloud without installation. Both are free for students and teachers at any level.
- 
+
 
 ## Game Development Tools
 
@@ -154,6 +154,7 @@ Table of Contents
 ## Software Packs
 
   * [Microsoft Imagine (formerly DreamSpark)](https://imagine.microsoft.com/) [FREE / DISCOUNT] - Imagine is a Microsoft program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes. Currently includes SQL Server 2012, 2014, and 2016; Windows Server 2008 R2, 2012 R2, and 2016 in DataCenter, Standard, and Essentials and Windows 8.1 Embedded Industry Pro. Also offers a free Azure App service plan (no credit card). Most students are also eligible for a free Windows 10 license through their school's [OnTheHub WebStore](http://onthehub.com/download/free-software/windows-10-education-for-students/).
+  * [Microsoft Office 365 Education](https://www.microsoft.com/en-au/education/products/office/default.aspx) [FREE] - Free access to Microsoft Office 365 software including Word, Excel, PowerPoint, OneNote, and Teams for students and teachers.
   * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
   * [IBM Student Developer Community](https://developer.ibm.com/students/) [FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
   * [Figure Eight](https://www.figure-eight.com/) [FREE] - CrowdFlower is now Figure Eight.Figure Eight is the essential Human-in-the-Loop AI platform for data science & machine learning teams.
