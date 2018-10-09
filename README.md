@@ -18,7 +18,7 @@ Table of Contents
   * [SaaS](#saas)
   * [PaaS](#paas)
   * [Email](#email)
-  * [CI / CD](#ci-cd)
+  * [CI / CD](#ci--cd)
   * [Payments](#payments)
   * [Management Systems](#management-systems)
   * [Mapping](#maps)
