@@ -18,7 +18,7 @@ Table of Contents
   * [SaaS](#saas)
   * [PaaS](#paas)
   * [Email](#email)
-  * [CI / CD](#ci--cd)
+  * [CI / CD](#ci-cd)
   * [Payments](#payments)
   * [Management Systems](#management-systems)
   * [Mapping](#maps)
@@ -32,7 +32,7 @@ Table of Contents
   * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
   * [Password Managers](#password-managers)
   * [Infrastructure Monitoring](#infrastructure-monitoring)
-  * [Other Packs](#other-packs)
+  * [Software Packs](#software-packs)
 
 
 
@@ -51,7 +51,7 @@ Table of Contents
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) [FREE] - IDE that creates responsive websites using the Bootstrap framework.
   * [MATLAB](https://in.mathworks.com/academia/student_version.html) [DISCOUNT] - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.
   * [ShiftEdit](https://shiftedit.net/) [DISCOUNT] - ShiftEdit is a powerful online IDE for developing websites. Discount for educations. $750 a year for 50 licenses.
-  
+
 ## Version Control
 
   * [Tower](http://www.git-tower.com/buy) [DISCOUNT] -  Version control with git made easy.
@@ -109,7 +109,7 @@ Table of Contents
 
   * [HackHands](https://hackhands.com/education/) [CREDIT]- Live programming help available 24/7. $25 in platform credit to students via [Github Student Developer Pack](https://education.github.com/pack).
   * [Evernote](https://evernote.com/students) [DISCOUNT] - Capture, organize, and share notes from anywhere. Get 50% off a full year of Evernote Premium.
-  
+
 
 ## Domain Name Registers
 
@@ -133,7 +133,7 @@ Table of Contents
   * [CartoDB](https://cartodb.com/solutions/education-and-research/) [FREE / DISCOUNT] - Additional space & features for free accounts or 20% discount on paid accounts.
   * [Tableau Desktop](https://www.tableau.com/academic/students) [FREE] - One Year Professional License for Students.
   * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html) and [SAS OnDemand Academic](http://www.sas.com/en_us/industry/higher-education/on-demand-for-academics.html) [FREE] - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on the prepackaged VM and hosts SAS Studio for use with a browser on the host computer. SAS OnDemand hosts SAS Studio for use in the cloud without installation. Both are free for students and teachers at any level.
- 
+
 
 ## Game Development Tools
 
