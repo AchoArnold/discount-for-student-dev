@@ -32,7 +32,7 @@ Table of Contents
   * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
   * [Password Managers](#password-managers)
   * [Infrastructure Monitoring](#infrastructure-monitoring)
-  * [Other Packs](#other-packs)
+  * [Software Packs](#software-packs)
 
 
 
