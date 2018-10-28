@@ -143,7 +143,7 @@ Table of Contents
 
 ## 3D Animation and Modeling Software
 
- * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) [FREE] - 3-Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox.
+ * [Autodesk Software](https://www.autodesk.com/education/free-software/featured) [FREE] - The Free Autodesk Education License includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder, Mudbox, Inventor Professional...
 
 ## Password Managers
  * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Completely free for students and professors with a valid college or university email address (normally $19.95/year)
