@@ -146,7 +146,7 @@ Table of Contents
  * [Autodesk Software](https://www.autodesk.com/education/free-software/featured) [FREE] - The Free Autodesk Education License includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder, Mudbox, Inventor Professional...
 
 ## Password Managers
- * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Completely free for students and professors with a valid college or university email address (normally $19.95/year)
+ * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Free for students and professors with a valid college or university email address for the first year ($12/year thereafter)
  * [LastPass](https://lastpass.com/edupromo.php) [FREE] - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
 
 ## Infrastructure Monitoring
