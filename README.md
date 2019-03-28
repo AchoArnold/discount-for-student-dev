@@ -72,6 +72,7 @@ Table of Contents
 
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [DISCOUNT] - Students save big with 60% off Creative Cloud.
   * [Ip Geolocation](https://ipgeolocation.io/) [DISCOUNT] -  Free for 50K requests and 50% discount on all paid plans for students.
+  * [Taskade - Team Productivity](https://www.taskade.com/) [DISCOUNT] -  Students get 50% permanent discount on Taskade Pro subscriptions. Use the coupon code "students50" on checkout and start collaborating on Taskade with team task, notes and chat.
 
 ## PaaS
 
