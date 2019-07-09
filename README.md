@@ -33,6 +33,7 @@ Table of Contents
   * [Password Managers](#password-managers)
   * [Infrastructure Monitoring](#infrastructure-monitoring)
   * [Software Packs](#software-packs)
+  * [Learning Resources](#learning-resources)
 
 
 
@@ -163,6 +164,10 @@ Table of Contents
   * [IBM Student Developer Community](https://developer.ibm.com/students/) [FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
   * [Figure Eight](https://www.figure-eight.com/) [FREE] - CrowdFlower is now Figure Eight.Figure Eight is the essential Human-in-the-Loop AI platform for data science & machine learning teams.
   * [Exploratory](https://exploratory.io/) [FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
+
+## Learning Resources
+ * [Association of Computing Machinery with Digital Library](https://www.acm.org) [DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year. The digital library grants access to O'Reilly's Online Learning platform which normally cost $39 USD a month. O'Reilly's Online Learning platform is like Netflix for learning material with books and video courses from publishers such as Pearson, O'Reilly, No Starch Press and much more.
+
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
