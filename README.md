@@ -73,7 +73,7 @@ Table of Contents
   * [Sketch](https://backend.bohemiancoding.com/store/edu/) [DISCOUNT] - 50% off your copy of Sketch when you get an educational license.
   * [Canva](https://www.canva.com/) [FREE] - Free 12 month subscription of Canva's Pro tier via [Github Student Developer Pack](https://education.github.com/pack).
   * [Icons8](https://icons8.com/github-students)[FREE] - Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects.Full 3-month all access subscription with icons, photos, illustrations, and music via 
-
+[Github Student Developer Pack](https://education.github.com/pack).
 
 ## SaaS
 
