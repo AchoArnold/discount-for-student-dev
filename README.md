@@ -52,22 +52,29 @@ Table of Contents
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) [FREE] - IDE that creates responsive websites using the Bootstrap framework.
   * [MATLAB](https://in.mathworks.com/academia/student_version.html) [DISCOUNT] - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.
   * [ShiftEdit](https://shiftedit.net/) [DISCOUNT] - ShiftEdit is a powerful online IDE for developing websites. Discount for educations. $750 a year for 50 licenses.
+  * [Repl](https://repl.it/site/github-students) [FREE] - An online IDE that lets you instantly code in over fifty languages.Hacker plan, includes unlimited private repls and multiplayer invites. Free for one year available via [Github Student Developer Pack](https://education.github.com/pack)
+  * [GitPod](https://www.gitpod.io/github-student-developer-pack/)[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click.Free personal plan subscription for six months for students via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Version Control
 
   * [Tower](http://www.git-tower.com/buy) [DISCOUNT] -  Version control with git made easy.
   * [GitKraken](https://www.gitkraken.com/github-student-developer-pack) [FREE] - Another free as in price desktop Git client. Based on Electron, runs on Windows, GNU/Linux, and Mac. To claim free 1-year PRO license, you must claim your [Github Student Developer Pack](https://education.github.com/pack) and sign in to the desktop client w/ GitHub.
   * [Sentry](https://sentry.io/for/education/) [FREE] - Open-source error tracking that helps developers monitor and fix crashes in real time.Also included via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Working Copy](https://workingcopy.app/education/)[FREE] - Powerful Git client for iOS that clones, edits, commits, pushes.All Pro features for free while you are a student via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) [CREDIT] - Digital Ocean provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
   * [RoseHosting](https://www.rosehosting.com) [DISCOUNT] - RoseHosting offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code "STUDENT20". Valid for new customers only. Cannot be combined with any other offer.
   * [SiteGround](https://www.siteground.com/students-plan.htm) [DISCOUNT] - $1.99/month instead of $3.95/month on their [StartUp plan](https://www.siteground.com/students-plan.htm).
+  * [Education Host](https://education.github.com/pack/redeem/educationhost) [FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Design and Photo Editing
 
   * [Sketch](https://backend.bohemiancoding.com/store/edu/) [DISCOUNT] - 50% off your copy of Sketch when you get an educational license.
+  * [Canva](https://www.canva.com/) [FREE] - Free 12 month subscription of Canva's Pro tier via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Icons8](https://icons8.com/github-students)[FREE] - Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects.Full 3-month all access subscription with icons, photos, illustrations, and music via 
+[Github Student Developer Pack](https://education.github.com/pack).
 
 ## SaaS
 
@@ -79,10 +86,12 @@ Table of Contents
 
   * [Amazon Web Services](http://www.awseducate.com/application) [FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
   * [Google Cloud Platform](https://cloud.google.com) [TEMPORARILY FREE] - Access Cloud Services and G-Suite either on a trial of 14 days or register for one year through educational license or by card details.
+  * [Heroku](https://heroku.com/github-students)[FREE] - A flexible, easy-to-use platform to deploy, run, and manage your apps. One free Hobby Dyno for up to two years via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Email
 
   * [Send Grid](https://sendgrid.com/partner/github-education) [CREDIT] - Student plan 15K free emails/month (normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Mailgun](https://education.github.com/pack/redeem/mailgun) [FREE] - Powerful APIs that enable you to send, receive and track email effortlessly.20,000 free emails and 100 free email validations each month for up to 12 months , available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## CI / CD
 
@@ -100,6 +109,7 @@ Table of Contents
   * [Yellow Circle](http://www.yellowcircle.net) [FREE] - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
   * [Orchestrate](https://orchestrate.io/) [FREE] - Orchestrate is a complete database portfolio that includes search, time-series events, geolocation and graph queries through an API. You can host your data on a public cloud, such as in CenturyLink data centers, or use Orchestrate Enterprise’s dedicated clusters. [Github Student Developer Pack](https://education.github.com/pack) members receive a free developer account (normally $49/month).
   * [Vertabelo](http://www.vertabelo.com/) [FREE] - Fully-featured online tool for database design. Free for Educational Purposes.
+ 
 
 ## Maps
 
@@ -108,17 +118,21 @@ Table of Contents
 ## Localization
 
   * [Transifex](https://www.transifex.com) [FREE / CREDIT]- A localization platform for translating digital content. 1 Free Year worth $99/month available via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Crowdin](https://education.github.com/pack/redeem/crowdin)[FREE] - Crowdin is a cloud-based solution that streamlines localization management.Bronze plan for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
+
 
 ## Programming Help
 
   * [HackHands](https://hackhands.com/education/) [CREDIT]- Live programming help available 24/7. $25 in platform credit to students via [Github Student Developer Pack](https://education.github.com/pack).
   * [Evernote](https://evernote.com/students) [DISCOUNT] - Capture, organize, and share notes from anywhere. Get 50% off a full year of Evernote Premium.
+  * [Covalence](https://education.github.com/pack/redeem/covalence)[FREE] - Join an exclusive developer community and learn Full Stack web-development with no long-term commitments.One free month of Covalence's Atomic Plan and two 1-on-1 mentoring sessions via [Github Student Developer Pack](https://education.github.com/pack).
 
 
 ## Domain Name Registers
 
   * [NameCheap](http://nc.me) [FREE/DISCOUNT] - One year domain name registration on the .me TLD, and deeply discounted registrations on .io, .tech, .com, and .website. Inludes optional free year of hosted Ghost blogging platform or Exposure photo website.
   * [.tech](https://get.tech/students) [DISCOUNT] - One year registration on .tech TLD for $0.99, with free renewals for referrals.
+  * [name.com](https://www.name.com/partner/github-students)[FREE] - Domain names, web hosting, and websites. One free domain name and free Advanced Security (SSL, privacy protection, and more) via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Security
 
@@ -132,6 +146,8 @@ Table of Contents
   * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic) [FREE] - Visual database design online. 100% free academic accounts for students and lecturers who are learning or teaching database modeling.
   * [Invision](http://www.invisionapp.com/education-signup) [FREE] - Prototyping and Mockup tool
   * [Framer](http://framerjs.com/pricing/) [DISCOUNT] - Prototyping tool. 50% off when you get an educational license.
+  * [Vaadin](https://vaadin.com/student-program) [FREE] - Best open source Java framework for building Progressive Web Applications.Free Pro subscription license to access the commercial components and tools via [Github Student Developer Pack](https://education.github.com/pack).
+
 
 ## Visual Analytics
 
@@ -155,6 +171,8 @@ Table of Contents
 
 ## Infrastructure Monitoring
  * [Datadog](http://studentpack.datadoghq.com/) [FREE] - 2-Year License for a Datadog Pro account, good for monitoring 10 servers. Part of the [Github Student Developer Pack](https://education.github.com/pack)
+ * [HoneyBadger](https://education.github.com/pack/redeem/honeybadger)[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
+  * [LogDNA](https://www.logdna.com/github-students)[FREE] - Log management platform that offers aggregation, monitoring, and analysis of server and application logs at any volume, from any source.Up to 50 GB/month of log storage with 14 day retention for one year via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Software Packs
 
