@@ -75,6 +75,7 @@ Table of Contents
   * [Canva](https://www.canva.com/) [FREE] - Free 12 month subscription of Canva's Pro tier via [Github Student Developer Pack](https://education.github.com/pack).
   * [Icons8](https://icons8.com/github-students)[FREE] - Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects.Full 3-month all access subscription with icons, photos, illustrations, and music via 
 [Github Student Developer Pack](https://education.github.com/pack).
+  * [Figma](https://www.figma.com/education/) [FREE] - Receive Professional Team features for free when verified as a student.
 
 ## SaaS
 
