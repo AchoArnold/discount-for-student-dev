@@ -55,7 +55,7 @@ Table of Contents
     * PhpStorm - PHP IDE
     * PyCharm - Python IDE
     * Rider - .NET IDE
-    * WebStorm - JavScript IDE
+    * WebStorm - JavaScript IDE
     * RubyMine - Ruby IDE
   * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
   * [Xamarin IDE](http://xamarin.com/student) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
