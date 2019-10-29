@@ -45,7 +45,18 @@ Table of Contents
 
 ## IDE and Code Editing
 
-  * [PyCharm, PhpStorm, WebStorm, AppCode, CLion, RubyMine, IntelliJ IDEA](https://www.jetbrains.com/student/) [FREE] - Professional developer tools from JetBrains.
+  * [JetBrains IDE pack](https://www.jetbrains.com/student/) [FREE] - Free professional developer IDEs and tools from JetBrains, including:
+    * ReSharper Ultimate - Visual Studio Extension
+    * IntelliJ - JVM based development
+    * AppCode - iOS/macOS IDE
+    * CLion - C/C++ IDE
+    * DataGrip - Database/SQL IDE
+    * GoLand - Go IDE
+    * PhpStorm - PHP IDE
+    * PyCharm - Python IDE
+    * Rider - .NET IDE
+    * WebStorm - JavaScript IDE
+    * RubyMine - Ruby IDE
   * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
   * [Xamarin IDE](http://xamarin.com/student) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
   * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) [FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
