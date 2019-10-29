@@ -54,6 +54,7 @@ Table of Contents
   * [ShiftEdit](https://shiftedit.net/) [DISCOUNT] - ShiftEdit is a powerful online IDE for developing websites. Discount for educations. $750 a year for 50 licenses.
   * [Repl](https://repl.it/site/github-students) [FREE] - An online IDE that lets you instantly code in over fifty languages.Hacker plan, includes unlimited private repls and multiplayer invites. Free for one year available via [Github Student Developer Pack](https://education.github.com/pack)
   * [GitPod](https://www.gitpod.io/github-student-developer-pack/)[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click.Free personal plan subscription for six months for students via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Atom](https://github.atom.io/) [FREE] - Atom is a free and open-source text and source code editor developed by GitHub (Atom – A Hackable Text and Source Code Editor).
 
 ## Version Control
 
@@ -187,6 +188,7 @@ Table of Contents
 
 ## Learning Resources
  * [Association of Computing Machinery with Digital Library](https://www.acm.org) [DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year. The digital library grants access to O'Reilly's Online Learning platform which normally cost $39 USD a month. O'Reilly's Online Learning platform is like Netflix for learning material with books and video courses from publishers such as Pearson, O'Reilly, No Starch Press and much more.
+ * [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/) [FREE] - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses. Getting your career started in field of FullStack Development with this amazing course. Free 6-months access to all courses and workshops.
 
 # License
 
