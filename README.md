@@ -45,7 +45,18 @@ Table of Contents
 
 ## IDE and Code Editing
 
-  * [PyCharm, PhpStorm, WebStorm, AppCode, CLion, RubyMine, IntelliJ IDEA](https://www.jetbrains.com/student/) [FREE] - Professional developer tools from JetBrains.
+  * [JetBrains IDE pack](https://www.jetbrains.com/student/) [FREE] - Free professional developer IDEs and tools from JetBrains, including:
+    * ReSharper Ultimate - Visual Studio Extension
+    * IntelliJ - JVM based development
+    * AppCode - iOS/macOS IDE
+    * CLion - C/C++ IDE
+    * DataGrip - Database/SQL IDE
+    * GoLand - Go IDE
+    * PhpStorm - PHP IDE
+    * PyCharm - Python IDE
+    * Rider - .NET IDE
+    * WebStorm - JavaScript IDE
+    * RubyMine - Ruby IDE
   * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
   * [Xamarin IDE](http://xamarin.com/student) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
   * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) [FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
@@ -54,6 +65,7 @@ Table of Contents
   * [ShiftEdit](https://shiftedit.net/) [DISCOUNT] - ShiftEdit is a powerful online IDE for developing websites. Discount for educations. $750 a year for 50 licenses.
   * [Repl](https://repl.it/site/github-students) [FREE] - An online IDE that lets you instantly code in over fifty languages.Hacker plan, includes unlimited private repls and multiplayer invites. Free for one year available via [Github Student Developer Pack](https://education.github.com/pack)
   * [GitPod](https://www.gitpod.io/github-student-developer-pack/)[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click.Free personal plan subscription for six months for students via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Atom](https://github.atom.io/) [FREE] - Atom is a free and open-source text and source code editor developed by GitHub (Atom – A Hackable Text and Source Code Editor).
 
 ## Version Control
 
@@ -71,15 +83,14 @@ Table of Contents
 
 ## Design and Photo Editing
 
+  * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [DISCOUNT] - Students save big with 60% off Creative Cloud.
   * [Sketch](https://backend.bohemiancoding.com/store/edu/) [DISCOUNT] - 50% off your copy of Sketch when you get an educational license.
   * [Canva](https://www.canva.com/) [FREE] - Free 12 month subscription of Canva's Pro tier via [Github Student Developer Pack](https://education.github.com/pack).
-  * [Icons8](https://icons8.com/github-students)[FREE] - Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects.Full 3-month all access subscription with icons, photos, illustrations, and music via 
-[Github Student Developer Pack](https://education.github.com/pack).
+  * [Icons8](https://icons8.com/github-students)[FREE] - Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects. Full 3-month all access subscription with icons, photos, illustrations, and music via [Github Student Developer Pack] (https://education.github.com/pack).
   * [Figma](https://www.figma.com/education/) [FREE] - Receive Professional Team features for free when verified as a student.
 
 ## SaaS
 
-  * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [DISCOUNT] - Students save big with 60% off Creative Cloud.
   * [Ip Geolocation](https://ipgeolocation.io/) [DISCOUNT] -  Free for 50K requests and 50% discount on all paid plans for students.
   * [Taskade - Team Productivity](https://www.taskade.com/) [DISCOUNT] -  Students get 50% permanent discount on Taskade Pro subscriptions. Use the coupon code "students50" on checkout and start collaborating on Taskade with team task, notes and chat.
   * [Notion.so](https://www.notion.so/students) [FREE] Free pro plan on Notion to Write, plan, collaborate, and get organized.
@@ -168,9 +179,10 @@ Table of Contents
  * [Autodesk Software](https://www.autodesk.com/education/free-software/featured) [FREE] - The Free Autodesk Education License includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder, Mudbox, Inventor Professional...
 
 ## Password Managers
+ * [1Password](https://www.studentappcentre.com/discounts/1password) - [FREE] 6 months of a 1Password account free. ($3/month thereafter using Personal account)
  * [Dashlane](https://www.dashlane.com/students) [FREE] - 1 year of free Dashlane Premium for Students, offer for new and existing users with eligible student emails ($3.33/month thereafter)
- * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Free for students and professors with a valid college or university email address for the first year ($12/year thereafter)
  * [LastPass](https://lastpass.com/edupromo.php) [FREE] - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
+ * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Free for students and professors with a valid college or university email address for the first year ($12/year thereafter)
 
 ## Infrastructure Monitoring
  * [Datadog](http://studentpack.datadoghq.com/) [FREE] - 2-Year License for a Datadog Pro account, good for monitoring 10 servers. Part of the [Github Student Developer Pack](https://education.github.com/pack)
@@ -188,6 +200,7 @@ Table of Contents
 
 ## Learning Resources
  * [Association of Computing Machinery with Digital Library](https://www.acm.org) [DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year. The digital library grants access to O'Reilly's Online Learning platform which normally cost $39 USD a month. O'Reilly's Online Learning platform is like Netflix for learning material with books and video courses from publishers such as Pearson, O'Reilly, No Starch Press and much more.
+ * [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/) [FREE] - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses. Getting your career started in field of FullStack Development with this amazing course. Free 6-months access to all courses and workshops.
 
 # License
 
