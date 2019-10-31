@@ -181,8 +181,9 @@ Table of Contents
 
 ## Password Managers
  * [1Password](https://www.studentappcentre.com/discounts/1password) - [FREE] 6 months of a 1Password account free. ($3/month thereafter using Personal account)
- * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Free for students and professors with a valid college or university email address for the first year ($12/year thereafter)
+ * [Dashlane](https://www.dashlane.com/students) [FREE] - 1 year of free Dashlane Premium for Students, offer for new and existing users with eligible student emails ($3.33/month thereafter)
  * [LastPass](https://lastpass.com/edupromo.php) [FREE] - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
+ * [RoboForm](https://www.roboform.com/promotions/college) [FREE] - Free for students and professors with a valid college or university email address for the first year ($12/year thereafter)
 
 ## Infrastructure Monitoring
  * [Datadog](http://studentpack.datadoghq.com/) [FREE] - 2-Year License for a Datadog Pro account, good for monitoring 10 servers. Part of the [Github Student Developer Pack](https://education.github.com/pack)
