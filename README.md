@@ -203,10 +203,10 @@ Table of Contents
 ## Learning Resources
  * [Association of Computing Machinery with Digital Library](https://www.acm.org) [DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year. The digital library grants access to O'Reilly's Online Learning platform which normally cost $39 USD a month. O'Reilly's Online Learning platform is like Netflix for learning material with books and video courses from publishers such as Pearson, O'Reilly, No Starch Press and much more.
  * [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/) [FREE] - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses. Getting your career started in field of FullStack Development with this amazing course. Free 6-months access to all courses and workshops.
- * [One Month] (https://onemonth.com/github/students) [FREE] - Learn HTML, CSS, JavaScript and Python in just 30 days!You will get Free 30-day One Month subscription.
- * [Flatiron School] (https://flatironschool.com/github-student-pack/) [FREE] - Learn Web Development from the premier coding bootcamp for launching developers. This is an amazing course if you want to go step-by-step. Free one-month membership to Community-Powered Bootcamp.
-* [GO RAILS] (https://gorails.com/github-students) [FREE] - Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more. Free access to all videos and lessons for 12 months.
-* [Thinkful] (https://www.thinkful.com/github-student-developer-pack/) [FREE] - Learn Fundamentals of Web Development to launch your career as a developer.1 month of access to a web development course.
+ * [One Month](https://onemonth.com/github/students) [FREE] - Learn HTML, CSS, JavaScript and Python in just 30 days!You will get Free 30-day One Month subscription.
+ * [Flatiron School](https://flatironschool.com/github-student-pack/) [FREE] - Learn Web Development from the premier coding bootcamp for launching developers. This is an amazing course if you want to go step-by-step. Free one-month membership to Community-Powered Bootcamp.
+* [GO RAILS](https://gorails.com/github-students) [FREE] - Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more. Free access to all videos and lessons for 12 months.
+* [Thinkful](https://www.thinkful.com/github-student-developer-pack/) [FREE] - Learn Fundamentals of Web Development to launch your career as a developer.1 month of access to a web development course.
 
 # License
 
