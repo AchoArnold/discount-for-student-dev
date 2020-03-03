@@ -86,7 +86,7 @@ Table of Contents
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [DISCOUNT] - Students save big with 60% off Creative Cloud.
   * [Sketch](https://backend.bohemiancoding.com/store/edu/) [DISCOUNT] - 50% off your copy of Sketch when you get an educational license.
   * [Canva](https://www.canva.com/) [FREE] - Free 12 month subscription of Canva's Pro tier via [Github Student Developer Pack](https://education.github.com/pack).
-  * [Icons8](https://icons8.com/github-students)[FREE] - Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects. Full 3-month all access subscription with icons, photos, illustrations, and music via [Github Student Developer Pack] (https://education.github.com/pack).
+  * [Icons8](https://icons8.com/github-students)[FREE] - Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects. Full 3-month all access subscription with icons, photos, illustrations, and music via [Github Student Developer Pack](https://education.github.com/pack).
   * [Figma](https://www.figma.com/education/) [FREE] - Receive Professional Team features for free when verified as a student.
 
 ## SaaS
@@ -101,7 +101,7 @@ Table of Contents
   * [Amazon Web Services](http://www.awseducate.com/application) [FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
   * [Google Cloud Platform](https://cloud.google.com) [TEMPORARILY FREE] - Access Cloud Services and G-Suite either on a trial of 14 days or register for one year through educational license or by card details.
   * [Heroku](https://heroku.com/github-students)[FREE] - A flexible, easy-to-use platform to deploy, run, and manage your apps. One free Hobby Dyno for up to two years via [Github Student Developer Pack](https://education.github.com/pack).
-  * [Microsoft Azure] (https://azure.microsoft.com/en-us/free/students/) - Microsoft Azure is an ever-expanding set of cloud services to help you build, manage, and deploy applications.Level up your ideas by learning cloud computing skills and get a $100 credit with your free Azure for Students account—no credit card required.
+  * [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) - Microsoft Azure is an ever-expanding set of cloud services to help you build, manage, and deploy applications.Level up your ideas by learning cloud computing skills and get a $100 credit with your free Azure for Students account—no credit card required.
 
 ## Email
 
