@@ -78,14 +78,14 @@ Table of Contents
 
   * [Digital Ocean](https://www.digitalocean.com) [CREDIT] - Digital Ocean provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
   * [RoseHosting](https://www.rosehosting.com) [DISCOUNT] - RoseHosting offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code "STUDENT20". Valid for new customers only. Cannot be combined with any other offer.
-  * [SiteGround](https://www.siteground.com/students-plan.htm) [DISCOUNT] - $1.99/month instead of $3.95/month on their [StartUp plan](https://www.siteground.com/students-plan.htm).
+  * [SiteGround](https://www.siteground.com/students-plan.htm) [DISCOUNT] - $1.99/month instead of $3.95/month on their [StartUp plan](https://www.siteground.com/shared-hosting-features.htm).
   * [Education Host](https://education.github.com/pack/redeem/educationhost) [FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Design and Photo Editing
 
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [DISCOUNT] - Students save big with 60% off Creative Cloud.
   * [Sketch](https://backend.bohemiancoding.com/store/edu/) [DISCOUNT] - 50% off your copy of Sketch when you get an educational license.
-  * [Canva](https://www.canva.com/) [FREE] - Free 12 month subscription of Canva's Pro tier via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Canva](https://www.canva.com) [FREE] - Free 12 month subscription of Canva's Pro tier via [Github Student Developer Pack](https://education.github.com/pack).
   * [Icons8](https://icons8.com/github-students)[FREE] - Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects. Full 3-month all access subscription with icons, photos, illustrations, and music via [Github Student Developer Pack](https://education.github.com/pack).
   * [Figma](https://www.figma.com/education/) [FREE] - Receive Professional Team features for free when verified as a student.
 
@@ -122,7 +122,6 @@ Table of Contents
 
   * [Bitnami](https://bitnami.com) [FREE] - Install cloud applications in a single click. Business 3 plan (normally $49/month) for one year available via [Github Student Developer Pack](https://education.github.com/pack).
   * [Yellow Circle](http://www.yellowcircle.net) [FREE] - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
-  * [Orchestrate](https://orchestrate.io/) [FREE] - Orchestrate is a complete database portfolio that includes search, time-series events, geolocation and graph queries through an API. You can host your data on a public cloud, such as in CenturyLink data centers, or use Orchestrate Enterprise’s dedicated clusters. [Github Student Developer Pack](https://education.github.com/pack) members receive a free developer account (normally $49/month).
   * [Vertabelo](http://www.vertabelo.com/) [FREE] - Fully-featured online tool for database design. Free for Educational Purposes.
  
 
