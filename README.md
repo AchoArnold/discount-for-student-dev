@@ -127,7 +127,7 @@ Table of Contents
 
 ## Maps
 
-  * [Mapbox](https://www.mapbox.com/education/) [CREDIT] - A mapping platform for developers. 5 GB of storage for your own custom data.
+  * [Mapbox](https://www.mapbox.com/) [FREE] - A mapping platform for developers. Mapbox is free to sign up and offers a generous [free tier](https://www.mapbox.com/pricing/).
 
 ## Localization
 
