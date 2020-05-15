@@ -101,12 +101,12 @@ Table of Contents
   * [Amazon Web Services](http://www.awseducate.com/application) [FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
   * [Google Cloud Platform](https://cloud.google.com) [TEMPORARILY FREE] - Access Cloud Services and G-Suite either on a trial of 14 days or register for one year through educational license or by card details.
   * [Heroku](https://heroku.com/github-students)[FREE] - A flexible, easy-to-use platform to deploy, run, and manage your apps. One free Hobby Dyno for up to two years via [Github Student Developer Pack](https://education.github.com/pack).
-  * [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) - Microsoft Azure is an ever-expanding set of cloud services to help you build, manage, and deploy applications.Level up your ideas by learning cloud computing skills and get a $100 credit with your free Azure for Students account—no credit card required.
+  * [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) - Microsoft Azure is an ever-expanding set of cloud services to help you build, manage, and deploy applications. Level up your ideas by learning cloud computing skills and get a $100 credit with your free Azure for Students account—no credit card required.
 
 ## Email
 
   * [Send Grid](https://sendgrid.com/partner/github-education) [CREDIT] - Student plan 15K free emails/month (normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
-  * [Mailgun](https://education.github.com/pack/redeem/mailgun) [FREE] - Powerful APIs that enable you to send, receive and track email effortlessly.20,000 free emails and 100 free email validations each month for up to 12 months , available via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Mailgun](https://education.github.com/pack/redeem/mailgun) [FREE] - Powerful APIs that enable you to send, receive and track email effortlessly.20,000 free emails and 100 free email validations each month for up to 12 months, available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## CI / CD
 
