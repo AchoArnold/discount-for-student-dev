@@ -80,6 +80,7 @@ Table of Contents
   * [RoseHosting](https://www.rosehosting.com) [DISCOUNT] - RoseHosting offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code "STUDENT20". Valid for new customers only. Cannot be combined with any other offer.
   * [SiteGround](https://www.siteground.com/students-plan.htm) [DISCOUNT] - $1.99/month instead of $3.95/month on their [StartUp plan](https://www.siteground.com/shared-hosting-features.htm).
   * [Education Host](https://education.github.com/pack/redeem/educationhost) [FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
+  * [NodeHost](https://www.nodehost.ca/teachers) [FREE] - PHP hosting. Free container plan comes with 350MB Storage, 35GB Bandwidth, 1 MySQL Database, and 2 email accounts.
 
 ## Design and Photo Editing
 
