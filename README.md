@@ -168,7 +168,7 @@ Table of Contents
 
 * [Notion.so](https://www.notion.so/students) [FREE] Free pro plan on Notion to Write, plan, collaborate, and get organized.
 
-* [netlicensing.io](https://netlicensing.io/github-students/) [FREE] - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan free while you are a student at [GitHub Student Developer Pack](https://education.github.com/pack).  
+* [Netlicensing](https://netlicensing.io/github-students/) [FREE] - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan free while you are a student at [GitHub Student Developer Pack](https://education.github.com/pack).  
 
 * [Algolia](https://www.algolia.com/lp/github/) [FREE] - Hosted search API that provides support from front end to back end frameworks and libraries. 100k records and 1 million operations, valid for 1 year.
 
