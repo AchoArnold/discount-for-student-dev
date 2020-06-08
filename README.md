@@ -72,7 +72,10 @@ Table of Contents
   * [Tower](http://www.git-tower.com/buy) [DISCOUNT] -  Version control with git made easy.
   * [GitKraken](https://www.gitkraken.com/github-student-developer-pack) [FREE] - Another free as in price desktop Git client. Based on Electron, runs on Windows, GNU/Linux, and Mac. To claim free 1-year PRO license, you must claim your [Github Student Developer Pack](https://education.github.com/pack) and sign in to the desktop client w/ GitHub.
   * [Sentry](https://sentry.io/for/education/) [FREE] - Open-source error tracking that helps developers monitor and fix crashes in real time.Also included via [Github Student Developer Pack](https://education.github.com/pack).
-  * [Working Copy](https://workingcopy.app/education/)[FREE] - Powerful Git client for iOS that clones, edits, commits, pushes.All Pro features for free while you are a student via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Working Copy](https://workingcopy.app/education/) [FREE] - Powerful Git client for iOS that clones, edits, commits, pushes.All Pro features for free while you are a student via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Github Desktop](https://desktop.github.com/) [FREE] - Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow.
+  * [Better Code Hub](https://bettercodehub.com/github-student-developer-pack) [FREE] -Better Code Hub provides a definition of done for code quality and actionable refactoring feedback for every push and pull request. A free upgrade to an Individual license to analyse your personal private repos.
+* [Blackfire.io](https://blackfire.io/students) [FREE] - Code performance measurement tool. Find & fix bottlenecks.Free Profiler subscription for students.
 
 ## Web Hosting
 
@@ -95,7 +98,8 @@ Table of Contents
   * [Ip Geolocation](https://ipgeolocation.io/) [DISCOUNT] -  Free for 50K requests and 50% discount on all paid plans for students.
   * [Taskade - Team Productivity](https://www.taskade.com/) [DISCOUNT] -  Students get 50% permanent discount on Taskade Pro subscriptions. Use the coupon code "students50" on checkout and start collaborating on Taskade with team task, notes and chat.
   * [Notion.so](https://www.notion.so/students) [FREE] Free pro plan on Notion to Write, plan, collaborate, and get organized.
-  * [netlicensing.io](https://netlicensing.io/github-students/) [FREE] - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan for [FREE] while you are a student at [GitHub Student Developer Pack](https://education.github.com/pack).  
+  * [netlicensing.io](https://netlicensing.io/github-students/) [FREE] - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan free while you are a student at [GitHub Student Developer Pack](https://education.github.com/pack).  
+  * [Algolia](https://www.algolia.com/lp/github/) [FREE] - Hosted search API that provides support from front end to back end frameworks and libraries. 100k records and 1 million operations, valid for 1 year.
 
 ## PaaS
 
@@ -114,6 +118,7 @@ Table of Contents
   * [Travis CI](https://travis-ci.org) [FREE] - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
   * [StyleCI](https://blog.alt-three.com/introducing-the-student-plan/) [FREE / CREDIT] - Free Student Plan with access to StyleCI for up to five private repositories.
   * [Semaphore](https://docs.semaphoreci.com/account-management/discounts/) [FREE / DISCOUNT]- Free account for students and educators with a 25% discount for qualifying schools and institutions.
+  * [ConfigCat](https://configcat.com/student) [FREE] - Learn feature flags with the industry leading feature flag service.1000 feature flags, ∞ users for free.
 
 ## Payments
 
@@ -124,7 +129,9 @@ Table of Contents
   * [Bitnami](https://bitnami.com) [FREE] - Install cloud applications in a single click. Business 3 plan (normally $49/month) for one year available via [Github Student Developer Pack](https://education.github.com/pack).
   * [Yellow Circle](http://www.yellowcircle.net) [FREE] - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
   * [Vertabelo](http://www.vertabelo.com/) [FREE] - Fully-featured online tool for database design. Free for Educational Purposes.
- 
+  * [Phrase](https://phrase.com/lp/github-student-package/) [FREE] - A cloud-based translation management system built to accelerate the development of multilingual digital products.Phrase Lite Plan free for up to 12 months for students.
+ * [SQLSmash](http://student.sqlsmash.com/) [FREE] - Productivity plugin for SQL Server Management Studio for writing maintainable SQL scripts and faster navigation.Free standard license for students.
+ * [PushBots](https://pushbots.com/for/education/) [FREE] - The easiest way to engage your mobile & web app users via push notifications. Free Premium account for 6 months.
 
 ## Maps
 
@@ -141,7 +148,8 @@ Table of Contents
   * [HackHands](https://hackhands.com/education/) [CREDIT]- Live programming help available 24/7. $25 in platform credit to students via [Github Student Developer Pack](https://education.github.com/pack).
   * [Evernote](https://evernote.com/students) [DISCOUNT] - Capture, organize, and share notes from anywhere. Get 50% off a full year of Evernote Premium.
   * [Covalence](https://education.github.com/pack/redeem/covalence)[FREE] - Join an exclusive developer community and learn Full Stack web-development with no long-term commitments.One free month of Covalence's Atomic Plan and two 1-on-1 mentoring sessions via [Github Student Developer Pack](https://education.github.com/pack).
-
+  * [Transloadit](https://transloadit.com/github-students/) [FREE] - A versatile uploading & encoding API to automate any file conversion. The Startup plan for free, including 10GB of encoding credit.
+* [Storyscript](https://storyscript.com/github-student-pack) [FREE] - Storyscript is a top-level, cloud native programming language that helps you orchestrate data flow seamlessly between microservices.Free access to the Business Plan for the first year.
 
 ## Domain Name Registers
 
@@ -153,6 +161,8 @@ Table of Contents
 
   * [NameCheap](https://namecheap.com/) [DISCOUNT] - One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
   * [Shodan](https://www.shodan.io/) [FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
+* [Cryptolens](https://app.cryptolens.io/user/githubstudent) [FREE] - License and sell your software securely.10 licenses and any number of end-users for free for students.
+* [Termius](https://termius.com/education) [FREE] - SSH client that works on desktop and mobile. Termius securely syncs data across all your devices. Free access to the Premium plan while you're a student.
 
 ## Software Modeling Tools
 
@@ -169,7 +179,7 @@ Table of Contents
   * [CartoDB](https://cartodb.com/solutions/education-and-research/) [FREE / DISCOUNT] - Additional space & features for free accounts or 20% discount on paid accounts.
   * [Tableau Desktop](https://www.tableau.com/academic/students) [FREE] - One Year Professional License for Students.
   * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html) and [SAS OnDemand Academic](http://www.sas.com/en_us/industry/higher-education/on-demand-for-academics.html) [FREE] - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on the prepackaged VM and hosts SAS Studio for use with a browser on the host computer. SAS OnDemand hosts SAS Studio for use in the cloud without installation. Both are free for students and teachers at any level.
-
+* [Appfigures](https://appfigures.com/landing/github-student) [FREE] - App Store analytics, optimization, and intelligence. Free access to the Grow plan for 1 year.
 
 ## Game Development Tools
 
@@ -190,7 +200,7 @@ Table of Contents
  * [Datadog](http://studentpack.datadoghq.com/) [FREE] - 2-Year License for a Datadog Pro account, good for monitoring 10 servers. Part of the [Github Student Developer Pack](https://education.github.com/pack)
  * [HoneyBadger](https://education.github.com/pack/redeem/honeybadger)[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
   * [LogDNA](https://www.logdna.com/github-students)[FREE] - Log management platform that offers aggregation, monitoring, and analysis of server and application logs at any volume, from any source.Up to 50 GB/month of log storage with 14 day retention for one year via [Github Student Developer Pack](https://education.github.com/pack).
-
+* [Netwise](https://www.netwise.co.uk/students/) [FREE] - Turnkey data centre services for the hosting of critical IT infrastructure systems.Free single unit server colocation package free for 12 months.
 ## Software Packs
 
   * [Microsoft Imagine (formerly DreamSpark)](https://imagine.microsoft.com/) [FREE / DISCOUNT] - Imagine is a Microsoft program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes. Currently includes SQL Server 2012, 2014, and 2016; Windows Server 2008 R2, 2012 R2, and 2016 in DataCenter, Standard, and Essentials and Windows 8.1 Embedded Industry Pro. Also offers a free Azure App service plan (no credit card). Most students are also eligible for a free Windows 10 license through their school's [OnTheHub WebStore](http://onthehub.com/download/free-software/windows-10-education-for-students/).
@@ -207,7 +217,14 @@ Table of Contents
  * [Flatiron School](https://flatironschool.com/github-student-pack/) [FREE] - Learn Web Development from the premier coding bootcamp for launching developers. This is an amazing course if you want to go step-by-step. Free one-month membership to Community-Powered Bootcamp.
 * [GO RAILS](https://gorails.com/github-students) [FREE] - Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more. Free access to all videos and lessons for 12 months.
 * [Thinkful](https://www.thinkful.com/github-student-developer-pack/) [FREE] - Learn Fundamentals of Web Development to launch your career as a developer.1 month of access to a web development course.
-
+* [SymfonyCasts](https://symfonycasts.com/github-student) [FREE] - Master Symfony and PHP with video tutorials and code challenges. Free 3-month subscription for students. 
+* [next.tech](https://next.tech/github-students) [FREE] - Learn tech skills and build software directly from your browser with real, online computing environments. Free access to all interactive courses and cloud computing environments for 12 months.
+* [Educative](https://www.educative.io/github-students) [FREE] - Level up on trending coding skills at your own pace with interactive, text-based courses. Get 6 free months of 60+ courses covering in-demand topics like Web Development, Python, Java, and Machine Learning.
+* [Interview Cake](https://www.interviewcake.com/github-students) [FREE] - Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more. Access to the full coding interview prep course for 3 weeks.
+* [Adafruit](https://www.adafruit.com/github-students) [FREE] - Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA.One year of Adafruit IO+ and discounts on selected hardware.
+* [DataCamp](https://www.datacamp.com/github-students/) [FREE] - DataCamp helps companies and individuals make better use of data. Our users build data fluency while learning from the world’s top data scientists.Free 3-month individual subscription for students.
+* [Arduino Education](https://www.arduino.cc/github/students) [FREE] - Empower scientists and artists of the future with creative STEM programs.Free Arduino Create Maker plan for 6 months and discounts on selected hardware.
+* [PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html) [FREE] - With PomoDone, hack and track your time and boost your productivity by applying Pomodoro technique to your workflow -- eliminate distraction, sharpen focus and prevent burnout.PomoDone Lite plan free for 2-years.
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
