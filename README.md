@@ -135,6 +135,8 @@ Table of Contents
 
 * [SiteGround](https://www.siteground.com/students-plan.htm) [DISCOUNT] - $1.99/month instead of $3.95/month on their [StartUp plan](https://www.siteground.com/shared-hosting-features.htm).
 
+* [Bip](https://bip.sh/students) [DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount for students [on all plans](https://bip.sh/students).
+
 * [Education Host](https://education.github.com/pack/redeem/educationhost) [FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [NodeHost](https://www.nodehost.ca/teachers) [FREE] - PHP hosting. Free container plan comes with 350MB Storage, 35GB Bandwidth, 1 MySQL Database, and 2 email accounts.
