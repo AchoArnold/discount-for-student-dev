@@ -347,6 +347,8 @@ Table of Contents
 
  * [Autodesk Software](https://www.autodesk.com/education/free-software/featured) [FREE] - The Free Autodesk Education License includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder, Mudbox, Inventor Professional...
 
+ * [3D BLENDER Software](https://www.blender.org/) [FREE] - The Blender is the free and open source 3D creation suite.
+ 
 
 ## Password Managers
 
