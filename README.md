@@ -178,6 +178,8 @@ Table of Contents
 
 * [Customerly](https://education.github.com/pack/redeem/customerly) [FREE] - Live chat, behavioural funnels, newsletters, and in-app surveys for SaaS.Customerly Pro free for 6 months.
 
+* [Loom Pro](https://support.loom.com/hc/en-us/articles/360006579637-Loom-Pro-Free-for-Students-and-Teachers/?ref=codegena.com)[FREE] - Loom is a video recording tool that helps you get your message across through instantly shareable videos.
+
 
 ## PaaS
 
