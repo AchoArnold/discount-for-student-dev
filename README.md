@@ -295,6 +295,8 @@ Table of Contents
 
 * [SOFY](https://education.github.com/pack/redeem/sofy) [FREE] - SOFY automates your software testing, uses machine learning to create tests, suggests test scenarios based on product changes, customer usage data and runs at scale.6 months of free website and mobile app testing.
 
+* [Let's Encrypt](https://letsencrypt.org) [FREE] - Let's Encrypt provides free SSL/TLS certificates.
+
 
 ## Software Modeling Tools
 
