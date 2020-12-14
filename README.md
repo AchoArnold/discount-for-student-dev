@@ -313,7 +313,7 @@ Table of Contents
 
 ## Visual Analytics
 
-  * [CartoDB](https://cartodb.com/solutions/education-and-research/) [FREE / DISCOUNT] - Additional space & features for free accounts or 20% discount on paid accounts.
+  * [CARTO](https://carto.com/help/getting-started/student-accounts/) [FREE / DISCOUNT] - Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
 
 * [Tableau Desktop](https://www.tableau.com/academic/students) [FREE] - One Year Professional License for Students.
 
