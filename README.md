@@ -164,7 +164,9 @@ Table of Contents
 
 ## SaaS
 
-  * [Ip Geolocation](https://ipgeolocation.io/) [DISCOUNT] -  Free for 50K requests and 50% discount on all paid plans for students.
+* [Ip Geolocation](https://ipgeolocation.io/) [DISCOUNT] -  Free for 50K requests and 50% discount on all paid plans for students.
+  
+* [CurrencyFreaks](https://currencyfreaks.com/) [DISCOUNT] -  Provides current and historical currency exchange rates. There is a 50% discount on all paid plans for students.
 
 * [Taskade - Team Productivity](https://www.taskade.com/) [DISCOUNT] -  Students get 50% permanent discount on Taskade Pro subscriptions. Use the coupon code "students50" on checkout and start collaborating on Taskade with team task, notes and chat.
 
