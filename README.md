@@ -180,6 +180,8 @@ Table of Contents
 
 * [Loom Pro](https://support.loom.com/hc/en-us/articles/360006579637-Loom-Pro-Free-for-Students-and-Teachers/?ref=codegena.com)[FREE] - Loom is a video recording tool that helps you get your message across through instantly shareable videos.
 
+* [Twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education) [CREDIT] - Free $50 USD in Twilio API credits & Exclusive in-game items in TwilioQuest for student via [Github Student Developer Pack](https://education.github.com/pack).
+
 
 ## PaaS
 
