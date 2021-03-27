@@ -143,6 +143,8 @@ Table of Contents
 
 * [Pageclip](https://pageclip.co/github-students) [FREE] - A server for your static websites and HTML forms.Free basic plan while you are a student.
 
+* [Qovery](https://www.qovery.com) [FREE] - Qovery is a fully-managed cloud platform that runs on your AWS, GCP, Azure and Digital Ocean account where you can host static sites, backend APIs, databases, cron jobs, and all your other apps in one place.
+
 
 ## Design and Photo Editing
 
