@@ -366,7 +366,7 @@ Table of Contents
 
 * [HoneyBadger](https://education.github.com/pack/redeem/honeybadger)[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [LogDNA](https://www.logdna.com/github-students)[FREE] - Log management platform that offers aggregation, monitoring, and analysis of server and application logs at any volume, from any source.Up to 50 GB/month of log storage with 14 day retention for one year via [Github Student Developer Pack](https://education.github.com/pack).
+* [LogDNA](https://www.logdna.com/blog/get-a-free-logdna-account-in-the-github-student-developer-pack)[FREE] - Log management platform that offers aggregation, monitoring, and analysis of server and application logs at any volume, from any source.Up to 50 GB/month of log storage with 14 day retention for one year via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Netwise](https://www.netwise.co.uk/students/) [FREE] - Turnkey data centre services for the hosting of critical IT infrastructure systems.Free single unit server colocation package free for 12 months.
 
