@@ -265,8 +265,6 @@ Table of Contents
 
 * [Transloadit](https://transloadit.com/github-students/) [FREE] - A versatile uploading & encoding API to automate any file conversion. The Startup plan for free, including 10GB of encoding credit.
 
-* [Storyscript](https://storyscript.com/github-student-pack) [FREE] - Storyscript is a top-level, cloud native programming language that helps you orchestrate data flow seamlessly between microservices.Free access to the Business Plan for the first year.
-
 * [Jaamly](https://education.github.com/pack/redeem/jaamly) [FREE] - Helping developers, designers, and startups to launch their apps on the App Store.Jaamly Startup plan free for 6 months.
 
 
