@@ -373,7 +373,7 @@ Table of Contents
 
 ## Software Packs
 
-  * [Microsoft Imagine (formerly DreamSpark)](https://imagine.microsoft.com/) [FREE / DISCOUNT] - Imagine is a Microsoft program that supports technical education by providing access to Microsoft software for learning, teaching and research purposes. Currently includes SQL Server 2012, 2014, and 2016; Windows Server 2008 R2, 2012 R2, and 2016 in DataCenter, Standard, and Essentials and Windows 8.1 Embedded Industry Pro. Also offers a free Azure App service plan (no credit card). Most students are also eligible for a free Windows 10 license through their school's [OnTheHub WebStore](http://onthehub.com/download/free-software/windows-10-education-for-students/).
+  * [Azure for Students](https://azureforeducation.microsoft.com/en-us/Institutions) [FREE / DISCOUNT] - Subscriptions provide access to Azure services. Azure for Students gives you $100 credit for 12 months. It includes access to more than 25 free services, including compute, network, storage, and databases. Any charges incurred during this period are deducted from the credit.
 
 * [Microsoft Office 365 Education](https://www.microsoft.com/en-au/education/products/office/default.aspx) [FREE] - Free access to Microsoft Office 365 software including Word, Excel, PowerPoint, OneNote, and Teams for students and teachers.
 
