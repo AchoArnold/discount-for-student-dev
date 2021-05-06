@@ -164,7 +164,9 @@ Table of Contents
 
 ## SaaS
 
-  * [Ip Geolocation](https://ipgeolocation.io/) [DISCOUNT] -  Free for 50K requests and 50% discount on all paid plans for students.
+* [BestTime.app - Foot Traffic Data API](https://besttime.app) [FREE] - 5000 Free API credits for students, and 50% discount on all plans. Analyze how busy venues are, filter venues on foot traffic data, day, time, location, reviews. This way you can e.g. find all crowded bars on Friday evening in a city.
+
+* [Ip Geolocation](https://ipgeolocation.io/) [DISCOUNT] -  Free for 50K requests and 50% discount on all paid plans for students.
 
 * [Taskade - Team Productivity](https://www.taskade.com/) [DISCOUNT] -  Students get 50% permanent discount on Taskade Pro subscriptions. Use the coupon code "students50" on checkout and start collaborating on Taskade with team task, notes and chat.
 
