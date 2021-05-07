@@ -34,6 +34,7 @@ Table of Contents
   * [Infrastructure Monitoring](#infrastructure-monitoring)
   * [Software Packs](#software-packs)
   * [Learning Resources](#learning-resources)
+  * [Data science](#data-science)
 
 
 
@@ -421,6 +422,10 @@ Table of Contents
 * [USETogether](https://www.use-together.com/github-students/) [FREE] - Remote pair programming and team collaboration tool.Free Premium subscription while you're a student, to be renewed every 6 months.
 
 * [Github Campus Experts](https://apply.githubcampus.expert/) [FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
+
+##  Data science
+
+* [Deepnote](https://deepnote.com/education) [FREE] - The best way to collaborate with others on data science projects. Education plan allows you to create an unlimited amount of Deepnote teams and work with any number of collaborators.
 
 # License
 
