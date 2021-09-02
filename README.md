@@ -89,7 +89,9 @@ Table of Contents
   * [Kodika](https://education.github.com/pack/redeem/kodika) [FREE] - Build iOS applications with drag & drop.Kodika Unlimited Pro subscription free for 6 months.
   
   * [Polypane](https://education.github.com/pack/redeem/polypane) [FREE] - A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time.Polypane free for 1 year.
-  
+
+  * [Tabnine](https://www.tabnine.com/students) [FREE] - Tabnine is an AI code completion tool that works on any IDE and supports all programming languages. Tabnine Pro Edition free for 1 year.
+
   * [Xojo](https://education.github.com/pack/redeem/xojo) [FREE] - A cross-platform development tool for making native apps for the Desktop.Xojo Desktop license free while you are a student.
   
   * [Yakindu](https://education.github.com/pack/redeem/yakindu) [FREE] - An integrated modelling environment for the specification and development of reactive, event-driven systems based on the concept of state machines.Yakindu Professional Edition free for 1 year.
