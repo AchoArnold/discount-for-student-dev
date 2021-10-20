@@ -185,6 +185,8 @@ Table of Contents
 
 * [Twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)[CREDIT] - Free $50 USD in Twilio API credits & Exclusive in-game items in TwilioQuest for student via [Github Student Developer Pack](https://education.github.com/pack).
 
+* [MojoAuth](https://mojoauth.com/) [FREE] - MojoAuth is the passwordless authentication solution, providing free passwordless authentication using email maginclink, otp and webauthn along with branding customization.
+
 
 ## PaaS
 
