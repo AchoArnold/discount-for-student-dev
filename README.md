@@ -344,6 +344,8 @@ Table of Contents
 
 * [Raygun](https://education.github.com/pack/redeem/raygun) [FREE] - Error, crash and performance monitoring for web and mobile apps. Startup Platform plan, free for one year.
 
+* [AnyChart](https://www.anychart.com/buy/non-commercial-license/) [FREE] - A flexible JavaScript library for creating interactive charts, maps, and dashboards for visual analytics. Provides students with a free license for use in their education or other non-commercial projects.
+
 
 ## Game Development Tools
 
