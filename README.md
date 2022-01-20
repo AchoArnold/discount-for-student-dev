@@ -426,7 +426,7 @@ Table of Contents
 
 * [HazeOver](https://hazeover.com/github-students.html) [FREE] - Get focused while working on your projects or studying with HazeOver for Mac.Free app license, including minor updates.
 
-* [USETogether](https://www.use-together.com/github-students/) [FREE] - Remote pair programming and team collaboration tool.Free Premium subscription while you're a student, to be renewed every 6 months.
+* [Drovio](https://www.drovio.com/github-students/) [FREE] - Remote pair programming and team collaboration tool. Free Standard subscription while you're a student, to be renewed every 6 months.
 
 * [Github Campus Experts](https://apply.githubcampus.expert/) [FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
 
