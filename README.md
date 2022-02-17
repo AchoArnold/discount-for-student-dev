@@ -142,7 +142,7 @@ Table of Contents
 
 * [Education Host](https://education.github.com/pack/redeem/educationhost) [FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [NodeHost](https://www.nodehost.ca/teachers) [FREE] - PHP hosting. 500MB Storage, 80GB Bandwidth, 1 Database, and 2 email accounts per site, 28 day backup history.
+* [NodeHost](https://nodehost.ca/education) [FREE] - PHP hosting. 500MB Storage, 80GB Bandwidth, 1 Database, and 2 email accounts per site, 28 day backup history.
 
 * [Pageclip](https://pageclip.co/github-students) [FREE] - A server for your static websites and HTML forms.Free basic plan while you are a student.
 
