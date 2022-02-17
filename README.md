@@ -47,7 +47,7 @@ Table of Contents
 
 ## IDE and Code Editing
 
-  * [JetBrains IDE pack](https://www.jetbrains.com/student/) [FREE] - Free professional developer IDEs and tools from JetBrains, including:
+  * [JetBrains IDE pack](https://www.jetbrains.com/community/education/) [FREE] - Free professional developer IDEs and tools from JetBrains, including:
     * ReSharper Ultimate - Visual Studio Extension
     * IntelliJ - JVM based development
     * AppCode - iOS/macOS IDE
