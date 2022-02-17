@@ -64,7 +64,7 @@ Table of Contents
   
   * [Xamarin IDE](https://xamarin.com/student) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
   
-  * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) [FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
+  * [Visual Studio Community 2017](https://visualstudio.microsoft.com/vs/community/) [FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
   
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) [FREE] - IDE that creates responsive websites using the Bootstrap framework.
   
