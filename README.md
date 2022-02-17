@@ -420,7 +420,7 @@ Table of Contents
 
 * [DataCamp](https://www.datacamp.com/github-students/) [FREE] - DataCamp helps companies and individuals make better use of data. Our users build data fluency while learning from the world’s top data scientists.Free 3-month individual subscription for students.
 
-* [Arduino Education](https://www.arduino.cc/github/students) [FREE] - Empower scientists and artists of the future with creative STEM programs.Free Arduino Create Maker plan for 6 months and discounts on selected hardware.
+* [Arduino Education](https://www.arduino.cc/education/github-students) [FREE] - Empower scientists and artists of the future with creative STEM programs.Free Arduino Create Maker plan for 6 months and discounts on selected hardware.
 
 * [PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html) [FREE] - With PomoDone, hack and track your time and boost your productivity by applying Pomodoro technique to your workflow -- eliminate distraction, sharpen focus and prevent burnout.PomoDone Lite plan free for 2-years.
 
