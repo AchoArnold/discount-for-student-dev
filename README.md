@@ -253,7 +253,7 @@ Table of Contents
 
 ## Maps
 
-  * [Mapbox](https://www.mapbox.com/education/) [CREDIT] - A mapping platform for developers. 5 GB of storage for your own custom data.
+  * [Mapbox](https://www.mapbox.com/community/education) [CREDIT] - A mapping platform for developers. 5 GB of storage for your own custom data.
 
 ## Localization
 
