@@ -362,7 +362,7 @@ Table of Contents
 
 ## Password Managers
 
-* [1Password](https://www.studentappcentre.com/discounts/1password) - [FREE] 6 months of a 1Password account free. ($3/month thereafter using Personal account)
+* [1Password](https://www.studentappcentre.com/App/1Password) - [FREE] 6 months of a 1Password account free. ($3/month thereafter using Personal account)
 
 * [Dashlane](https://www.dashlane.com/students) [FREE] - 1 year of free Dashlane Premium for Students, offer for new and existing users with eligible student emails ($3.33/month thereafter)
 
