@@ -68,7 +68,7 @@ Table of Contents
   
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) [FREE] - IDE that creates responsive websites using the Bootstrap framework.
   
-  * [MATLAB](https://in.mathworks.com/academia/student_version.html) [DISCOUNT] - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.
+  * [MATLAB](https://in.mathworks.com/products/matlab/student.html) [DISCOUNT] - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.
   
   * [ShiftEdit](https://shiftedit.net/) [DISCOUNT] - ShiftEdit is a powerful online IDE for developing websites. Discount for educations. $750 a year for 50 licenses.
   
