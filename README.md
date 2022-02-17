@@ -194,7 +194,7 @@ Table of Contents
 
 * [Google Cloud Platform](https://cloud.google.com) [TEMPORARILY FREE] - Access Cloud Services and G-Suite either on a trial of 14 days or register for one year through educational license or by card details.
 
-* [Heroku](https://heroku.com/github-students)[FREE] - A flexible, easy-to-use platform to deploy, run, and manage your apps. One free Hobby Dyno for up to two years via [Github Student Developer Pack](https://education.github.com/pack).
+* [Heroku](https://www.heroku.com/students)[FREE] - A flexible, easy-to-use platform to deploy, run, and manage your apps. One free Hobby Dyno for up to two years via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) - Microsoft Azure is an ever-expanding set of cloud services to help you build, manage, and deploy applications. Level up your ideas by learning cloud computing skills and get a $100 credit with your free Azure for Students account—no credit card required.
 
