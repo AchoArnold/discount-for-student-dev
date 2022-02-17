@@ -221,7 +221,7 @@ Table of Contents
 
 * [Semaphore](https://docs.semaphoreci.com/account-management/discounts/) [FREE / DISCOUNT]- Free account for students and educators with a 25% discount for qualifying schools and institutions.
 
-* [ConfigCat](https://configcat.com/student) [FREE] - Learn feature flags with the industry leading feature flag service.1000 feature flags, ∞ users for free.
+* [ConfigCat](https://configcat.com/student/) [FREE] - Learn feature flags with the industry leading feature flag service.1000 feature flags, ∞ users for free.
 
 
 ## Payments
