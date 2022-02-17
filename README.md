@@ -62,7 +62,7 @@ Table of Contents
   
   * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
   
-  * [Xamarin IDE](http://xamarin.com/student) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
+  * [Xamarin IDE](https://xamarin.com/student) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
   
   * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) [FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
   
@@ -151,7 +151,7 @@ Table of Contents
 
 ## Design and Photo Editing
 
-  * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [DISCOUNT] - Students save big with 60% off Creative Cloud.
+  * [Adobe Creative Cloud](https://www.adobe.com/creativecloud/buy/students.html) [DISCOUNT] - Students save big with 60% off Creative Cloud.
 
 * [Sketch](https://backend.bohemiancoding.com/store/edu/) [DISCOUNT] - 50% off your copy of Sketch when you get an educational license.
 
@@ -190,7 +190,7 @@ Table of Contents
 
 ## PaaS
 
-  * [Amazon Web Services](http://www.awseducate.com/application) [FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
+  * [Amazon Web Services](https://www.awseducate.com/application) [FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
 
 * [Google Cloud Platform](https://cloud.google.com) [TEMPORARILY FREE] - Access Cloud Services and G-Suite either on a trial of 14 days or register for one year through educational license or by card details.
 
@@ -234,11 +234,11 @@ Table of Contents
 
 * [Yellow Circle](https://yellowcircle.net) [FREE] - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
 
-* [Vertabelo](http://www.vertabelo.com/) [FREE] - Fully-featured online tool for database design. Free for Educational Purposes.
+* [Vertabelo](https://www.vertabelo.com/) [FREE] - Fully-featured online tool for database design. Free for Educational Purposes.
 
 * [Phrase](https://phrase.com/lp/github-student-package/) [FREE] - A cloud-based translation management system built to accelerate the development of multilingual digital products.Phrase Lite Plan free for up to 12 months for students.
 
-* [SQLSmash](http://student.sqlsmash.com/) [FREE] - Productivity plugin for SQL Server Management Studio for writing maintainable SQL scripts and faster navigation.Free standard license for students.
+* [SQLSmash](https://student.sqlsmash.com/) [FREE] - Productivity plugin for SQL Server Management Studio for writing maintainable SQL scripts and faster navigation.Free standard license for students.
 
 * [PushBots](https://pushbots.com/for/education/) [FREE] - The easiest way to engage your mobile & web app users via push notifications. Free Premium account for 6 months.
 
@@ -278,7 +278,7 @@ Table of Contents
 
 ## Domain Name Registers
 
-  * [NameCheap](http://nc.me) [FREE/DISCOUNT] - One year domain name registration on the .me TLD, and deeply discounted registrations on .io, .tech, .com, and .website. Inludes optional free year of hosted Ghost blogging platform or Exposure photo website.
+  * [NameCheap](https://nc.me) [FREE/DISCOUNT] - One year domain name registration on the .me TLD, and deeply discounted registrations on .io, .tech, .com, and .website. Inludes optional free year of hosted Ghost blogging platform or Exposure photo website.
 
 * [.tech](https://get.tech/students) [DISCOUNT] - One year registration on .tech TLD for $0.99, with free renewals for referrals.
 
@@ -306,15 +306,15 @@ Table of Contents
 
 ## Software Modeling Tools
 
-  * [Astah](http://astah.net/student-license-request) [FREE] - One Year Professional License
+  * [Astah](https://astah.net/student-license-request) [FREE] - One Year Professional License
 
-* [Axure RP](http://www.axure.com/edu) [FREE] - Free educational license of Axure RP Pro
+* [Axure RP](https://www.axure.com/edu) [FREE] - Free educational license of Axure RP Pro
 
 * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic) [FREE] - Visual database design online. 100% free academic accounts for students and lecturers who are learning or teaching database modeling.
 
-* [Invision](http://www.invisionapp.com/education-signup) [FREE] - Prototyping and Mockup tool
+* [Invision](https://www.invisionapp.com/education-signup) [FREE] - Prototyping and Mockup tool
 
-* [Framer](http://framerjs.com/pricing/) [DISCOUNT] - Prototyping tool. 50% off when you get an educational license.
+* [Framer](https://framerjs.com/pricing/) [DISCOUNT] - Prototyping tool. 50% off when you get an educational license.
 
 * [Vaadin](https://vaadin.com/student-program) [FREE] - Best open source Java framework for building Progressive Web Applications.Free Pro subscription license to access the commercial components and tools via [Github Student Developer Pack](https://education.github.com/pack).
 
@@ -325,7 +325,7 @@ Table of Contents
 
 * [Tableau Desktop](https://www.tableau.com/academic/students) [FREE] - One Year Professional License for Students.
 
-* [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html) and [SAS OnDemand Academic](http://www.sas.com/en_us/industry/higher-education/on-demand-for-academics.html) [FREE] - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on the prepackaged VM and hosts SAS Studio for use with a browser on the host computer. SAS OnDemand hosts SAS Studio for use in the cloud without installation. Both are free for students and teachers at any level.
+* [SAS University Edition](https://www.sas.com/en_us/software/university-edition.html) and [SAS OnDemand Academic](https://www.sas.com/en_us/industry/higher-education/on-demand-for-academics.html) [FREE] - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on the prepackaged VM and hosts SAS Studio for use with a browser on the host computer. SAS OnDemand hosts SAS Studio for use in the cloud without installation. Both are free for students and teachers at any level.
 
 * [Appfigures](https://appfigures.com/landing/github-student) [FREE] - App Store analytics, optimization, and intelligence. Free access to the Grow plan for 1 year.
 
@@ -370,7 +370,7 @@ Table of Contents
 
 ## Infrastructure Monitoring
 
-* [Datadog](http://studentpack.datadoghq.com/) [FREE] - 2-Year License for a Datadog Pro account, good for monitoring 10 servers. Part of the [Github Student Developer Pack](https://education.github.com/pack)
+* [Datadog](https://studentpack.datadoghq.com/) [FREE] - 2-Year License for a Datadog Pro account, good for monitoring 10 servers. Part of the [Github Student Developer Pack](https://education.github.com/pack)
 
 * [HoneyBadger](https://education.github.com/pack/redeem/honeybadger)[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
 
@@ -436,6 +436,6 @@ Table of Contents
 
 # License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Acho Arnold](https://acho.arnold.cf/) has waived all copyright and related or neighboring rights to this work.
