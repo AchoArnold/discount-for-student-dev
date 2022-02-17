@@ -177,7 +177,7 @@ Table of Contents
 
 * [Netlicensing](https://netlicensing.io/github-students/) [FREE] - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan free while you are a student at [GitHub Student Developer Pack](https://education.github.com/pack).  
 
-* [Algolia](https://www.algolia.com/lp/github/) [FREE] - Hosted search API that provides support from front end to back end frameworks and libraries. 100k records and 1 million operations, valid for 1 year.
+* [Algolia](https://www.algolia.com/developers/github/) [FREE] - Hosted search API that provides support from front end to back end frameworks and libraries. 100k records and 1 million operations, valid for 1 year.
 
 * [Blockchair](https://education.github.com/pack/redeem/blockchair-student) [FREE] - Connect to the world of blockchains through Blockchair’s professional APIs — supports most major cryptocurrencies.100,000 free requests.
 
