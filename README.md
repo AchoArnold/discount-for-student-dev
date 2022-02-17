@@ -406,7 +406,7 @@ Table of Contents
 
 * [GO RAILS](https://gorails.com/github-students) [FREE] - Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more. Free access to all videos and lessons for 12 months.
 
-* [Thinkful](https://www.thinkful.com/github-student-developer-pack/) [FREE] - Learn Fundamentals of Web Development to launch your career as a developer.1 month of access to a web development course.
+* [Thinkful](https://www.thinkful.com/getstarted/software-engineering/intro-course/) [FREE] - Learn Fundamentals of Web Development to launch your career as a developer.1 month of access to a web development course.
 
 * [SymfonyCasts](https://symfonycasts.com/github-student) [FREE] - Master Symfony and PHP with video tutorials and code challenges. Free 3-month subscription for students. 
 
