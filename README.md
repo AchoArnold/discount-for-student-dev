@@ -314,7 +314,7 @@ Table of Contents
 
 * [Invision](https://www.invisionapp.com/education-signup) [FREE] - Prototyping and Mockup tool
 
-* [Framer](https://framerjs.com/pricing/) [DISCOUNT] - Prototyping tool. 50% off when you get an educational license.
+* [Framer](https://www.framer.com/pricing/) [DISCOUNT] - Prototyping tool. 50% off when you get an educational license.
 
 * [Vaadin](https://vaadin.com/student-program) [FREE] - Best open source Java framework for building Progressive Web Applications.Free Pro subscription license to access the commercial components and tools via [Github Student Developer Pack](https://education.github.com/pack).
 
