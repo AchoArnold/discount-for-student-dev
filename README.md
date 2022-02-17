@@ -383,7 +383,7 @@ Table of Contents
 
   * [Azure for Students](https://azureforeducation.microsoft.com/en-us/Institutions) [FREE / DISCOUNT] - Subscriptions provide access to Azure services. Azure for Students gives you $100 credit for 12 months. It includes access to more than 25 free services, including compute, network, storage, and databases. Any charges incurred during this period are deducted from the credit.
 
-* [Microsoft Office 365 Education](https://www.microsoft.com/en-au/education/products/office/default.aspx) [FREE] - Free access to Microsoft Office 365 software including Word, Excel, PowerPoint, OneNote, and Teams for students and teachers.
+* [Microsoft Office 365 Education](https://www.microsoft.com/en-au/education/products/office) [FREE] - Free access to Microsoft Office 365 software including Word, Excel, PowerPoint, OneNote, and Teams for students and teachers.
 
 * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
 
