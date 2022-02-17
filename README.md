@@ -111,7 +111,7 @@ Table of Contents
 
 * [Better Code Hub](https://bettercodehub.com/github-student-developer-pack) [FREE] -Better Code Hub provides a definition of done for code quality and actionable refactoring feedback for every push and pull request. A free upgrade to an Individual license to analyse your personal private repos.
 
-* [Blackfire.io](https://blackfire.io/students) [FREE] - Code performance measurement tool. Find & fix bottlenecks.Free Profiler subscription for students.
+* [Blackfire.io](https://www.blackfire.io/students) [FREE] - Code performance measurement tool. Find & fix bottlenecks.Free Profiler subscription for students.
 
 * [Codecov](https://codecov.io/github-students) [FREE] - Codecov makes it easy to implement code coverage to develop healthier code.Free access to Codecov on public and private repositories.
 
