@@ -163,7 +163,7 @@ Table of Contents
 
 * [Iconscout](https://iconscout.com/github-students) [FREE] - Iconscout is design resources marketplace to get high quality icons, illustrations and stock images.Download 60 premium icons per month for 1 year.
 
-* [Themeisle](https://themeisle.com/github-students)[FREE] - Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone. Free year of Neve Agency WordPress theme exclusively for students.
+* [Themeisle](https://themeisle.com/github-students/)[FREE] - Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone. Free year of Neve Agency WordPress theme exclusively for students.
 
 
 
