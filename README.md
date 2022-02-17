@@ -113,7 +113,7 @@ Table of Contents
 
 * [Blackfire.io](https://www.blackfire.io/students) [FREE] - Code performance measurement tool. Find & fix bottlenecks.Free Profiler subscription for students.
 
-* [Codecov](https://codecov.io/github-students) [FREE] - Codecov makes it easy to implement code coverage to develop healthier code.Free access to Codecov on public and private repositories.
+* [Codecov](https://about.codecov.io/for/education/) [FREE] - Codecov makes it easy to implement code coverage to develop healthier code.Free access to Codecov on public and private repositories.
 
 * [AcessLint](https://education.github.com/pack/redeem/accesslint-student) [FREE] - AccessLint brings automated web accessibility testing into your development workflow.Unlimited use for public and private repositories while you are a student.
 
