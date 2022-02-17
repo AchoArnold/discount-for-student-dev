@@ -173,7 +173,7 @@ Table of Contents
 
 * [Taskade - Team Productivity](https://www.taskade.com/) [DISCOUNT] -  Students get 50% permanent discount on Taskade Pro subscriptions. Use the coupon code "students50" on checkout and start collaborating on Taskade with team task, notes and chat.
 
-* [Notion.so](https://www.notion.so/students) [FREE] Free pro plan on Notion to Write, plan, collaborate, and get organized.
+* [Notion.so](https://www.notion.so/product/notion-for-education) [FREE] Free pro plan on Notion to Write, plan, collaborate, and get organized.
 
 * [Netlicensing](https://netlicensing.io/github-students/) [FREE] - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan free while you are a student at [GitHub Student Developer Pack](https://education.github.com/pack).  
 
