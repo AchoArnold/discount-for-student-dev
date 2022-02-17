@@ -306,7 +306,7 @@ Table of Contents
 
 ## Software Modeling Tools
 
-  * [Astah](https://astah.net/student-license-request) [FREE] - One Year Professional License
+  * [Astah](https://astah.net/products/free-student-license/) [FREE] - One Year Professional License
 
 * [Axure RP](https://www.axure.com/edu) [FREE] - Free educational license of Axure RP Pro
 
