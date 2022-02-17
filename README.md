@@ -325,7 +325,7 @@ Table of Contents
 
 * [Tableau Desktop](https://www.tableau.com/academic/students) [FREE] - One Year Professional License for Students.
 
-* [SAS University Edition](https://www.sas.com/en_us/software/on-demand-for-academics.html) and [SAS OnDemand Academic](https://www.sas.com/en_us/industry/higher-education/on-demand-for-academics.html) [FREE] - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on the prepackaged VM and hosts SAS Studio for use with a browser on the host computer. SAS OnDemand hosts SAS Studio for use in the cloud without installation. Both are free for students and teachers at any level.
+* [SAS University Edition](https://www.sas.com/en_us/software/on-demand-for-academics.html) and [SAS OnDemand Academic](https://www.sas.com/en_us/software/on-demand-for-academics.html) [FREE] - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on the prepackaged VM and hosts SAS Studio for use with a browser on the host computer. SAS OnDemand hosts SAS Studio for use in the cloud without installation. Both are free for students and teachers at any level.
 
 * [Appfigures](https://appfigures.com/landing/github-student) [FREE] - App Store analytics, optimization, and intelligence. Free access to the Grow plan for 1 year.
 
