@@ -287,7 +287,7 @@ Table of Contents
 
 ## Security
 
-  * [NameCheap](https://namecheap.com/) [DISCOUNT] - One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
+  * [NameCheap](https://www.namecheap.com/) [DISCOUNT] - One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Shodan](https://www.shodan.io/) [FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
 
