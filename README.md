@@ -430,6 +430,8 @@ Table of Contents
 
 * [Github Campus Experts](https://apply.githubcampus.expert/) [FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
 
+* [JetBrains Academy](https://hyperskill.org/) [FREE] - A flexible platform for organizing and distributing structured and interactive tech skills education. Study Java, Python, Kotlin, and other programming languages in a project-based learning environment.
+
 ##  Data science
 
 * [Deepnote](https://deepnote.com/education) [FREE] - The best way to collaborate with others on data science projects. Education plan allows you to create an unlimited amount of Deepnote teams and work with any number of collaborators.
