@@ -148,6 +148,8 @@ Table of Contents
 
 * [Qoddi](https://qoddi.com) [CREDIT] - Qoddi offers $1000 per year for [every student](https://blog.qoddi.com/flashdrive-student-program/)
 
+* [InterServer](https://www.interserver.net/webhosting/student-webhosting.html/) [FREE] - Standard Web Hosting Package for Free for the first year for students.
+
 
 ## Design and Photo Editing
 
