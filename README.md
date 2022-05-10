@@ -150,6 +150,8 @@ Table of Contents
 
 * [InterServer](https://www.interserver.net/webhosting/student-webhosting.html/) [FREE] - Standard Web Hosting Package for Free for the first year for students.
 
+* [Fleek](https://fleek.co/) [FREE] - Build modern sites and apps on the Open Web and its protocols seamlessly free for, unlimited websites and 50 GB/month bandwidth.
+
 
 ## Design and Photo Editing
 
