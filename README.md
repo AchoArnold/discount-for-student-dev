@@ -238,8 +238,6 @@ Table of Contents
 
 * [Vertabelo](https://www.vertabelo.com/) [FREE] - Fully-featured online tool for database design. Free for Educational Purposes.
 
-* [Phrase](https://phrase.com/lp/github-student-package/) [FREE] - A cloud-based translation management system built to accelerate the development of multilingual digital products.Phrase Lite Plan free for up to 12 months for students.
-
 * [SQLSmash](https://student.sqlsmash.com/) [FREE] - Productivity plugin for SQL Server Management Studio for writing maintainable SQL scripts and faster navigation.Free standard license for students.
 
 * [PushBots](https://pushbots.com/for/education/) [FREE] - The easiest way to engage your mobile & web app users via push notifications. Free Premium account for 6 months.
