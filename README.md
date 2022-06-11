@@ -402,8 +402,6 @@ Table of Contents
 
 * [One Month](https://onemonth.com/github/students) [FREE] - Learn HTML, CSS, JavaScript and Python in just 30 days!You will get Free 30-day One Month subscription.
 
-* [Flatiron School](https://flatironschool.com/github-student-pack/) [FREE] - Learn Web Development from the premier coding bootcamp for launching developers. This is an amazing course if you want to go step-by-step. Free one-month membership to Community-Powered Bootcamp.
-
 * [GO RAILS](https://gorails.com/github-students) [FREE] - Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more. Free access to all videos and lessons for 12 months.
 
 * [Thinkful](https://www.thinkful.com/getstarted/software-engineering/intro-course/) [FREE] - Learn Fundamentals of Web Development to launch your career as a developer.1 month of access to a web development course.
