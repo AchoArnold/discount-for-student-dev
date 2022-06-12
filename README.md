@@ -238,8 +238,6 @@ Table of Contents
 
 * [Vertabelo](https://www.vertabelo.com/) [FREE] - Fully-featured online tool for database design. Free for Educational Purposes.
 
-* [Phrase](https://phrase.com/lp/github-student-package/) [FREE] - A cloud-based translation management system built to accelerate the development of multilingual digital products.Phrase Lite Plan free for up to 12 months for students.
-
 * [SQLSmash](https://student.sqlsmash.com/) [FREE] - Productivity plugin for SQL Server Management Studio for writing maintainable SQL scripts and faster navigation.Free standard license for students.
 
 * [PushBots](https://pushbots.com/for/education/) [FREE] - The easiest way to engage your mobile & web app users via push notifications. Free Premium account for 6 months.
@@ -403,8 +401,6 @@ Table of Contents
 * [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/) [FREE] - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses. Getting your career started in field of FullStack Development with this amazing course. Free 6-months access to all courses and workshops.
 
 * [One Month](https://onemonth.com/github/students) [FREE] - Learn HTML, CSS, JavaScript and Python in just 30 days!You will get Free 30-day One Month subscription.
-
-* [Flatiron School](https://flatironschool.com/github-student-pack/) [FREE] - Learn Web Development from the premier coding bootcamp for launching developers. This is an amazing course if you want to go step-by-step. Free one-month membership to Community-Powered Bootcamp.
 
 * [GO RAILS](https://gorails.com/github-students) [FREE] - Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more. Free access to all videos and lessons for 12 months.
 
