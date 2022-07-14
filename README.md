@@ -396,7 +396,7 @@ Table of Contents
 
 ## Learning Resources
 
-* [Association of Computing Machinery with Digital Library](https://www.acm.org) [DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year. The digital library grants access to O'Reilly's Online Learning platform which normally cost $39 USD a month. O'Reilly's Online Learning platform is like Netflix for learning material with books and video courses from publishers such as Pearson, O'Reilly, No Starch Press and much more.
+* [Association of Computing Machinery with Digital Library](https://www.acm.org) [DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year.
 
 * [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/) [FREE] - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses. Getting your career started in field of FullStack Development with this amazing course. Free 6-months access to all courses and workshops.
 
