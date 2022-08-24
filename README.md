@@ -428,6 +428,9 @@ Table of Contents
 
 * [Github Campus Experts](https://apply.githubcampus.expert/) [FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
 
+* [Coursera for Students](https://www.coursera.org/campus/basic/) [FREE] - With the Coursera for Campus Basic plan, students receive free access to unlimited guided projects and one free course per year.
+
+
 ##  Data science
 
 * [Deepnote](https://deepnote.com/education) [FREE] - The best way to collaborate with others on data science projects. Education plan allows you to create an unlimited amount of Deepnote teams and work with any number of collaborators.
