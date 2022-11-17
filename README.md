@@ -432,6 +432,8 @@ Table of Contents
 
 * [Deepnote](https://deepnote.com/education) [FREE] - The best way to collaborate with others on data science projects. Education plan allows you to create an unlimited amount of Deepnote teams and work with any number of collaborators.
 
+* [Noteable](https://noteable.io?utm_campaign=github-directory-AchoArnold) [FREE] - Noteable is a 100% free collaborative data notebook that enables multiple users to use and visualize data, together. With features like Interactive Visualizations, Versioning, Commenting, API Key vault, SQL on CSV/Excel files and Integrations with all major databases.
+
 # License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
