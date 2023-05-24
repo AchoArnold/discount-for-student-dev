@@ -167,6 +167,7 @@ Table of Contents
 
 * [Themeisle](https://themeisle.com/github-students/)[FREE] - Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone. Free year of Neve Agency WordPress theme exclusively for students.
 
+* [MDBootstrap](https://mdbootstrap.com/general/mdb-edu/) [FREE / DISCOUNT] - Set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages. Free tools worth $2049/year for all educational projects and 50% discount for a student.
 
 
 ## SaaS
