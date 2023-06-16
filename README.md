@@ -394,6 +394,8 @@ Table of Contents
 
 * [Exploratory](https://exploratory.io/) [FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
 
+* [Github Student Developer Pack](https://education.github.com/pack/) [FREE] - The GitHub Student Developer Pack is a collection of tools and resources that are available to students for free. It includes access to various developer tools, cloud services, and learning resources.
+
 
 ## Learning Resources
 
