@@ -396,7 +396,6 @@ Table of Contents
 
 * [Github Student Developer Pack](https://education.github.com/pack/) [FREE] - The GitHub Student Developer Pack is a collection of tools and resources that are available to students for free. It includes access to various developer tools, cloud services, and learning resources.
 
-
 ## Learning Resources
 
 * [Association of Computing Machinery with Digital Library](https://www.acm.org) [DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year.
@@ -430,6 +429,8 @@ Table of Contents
 * [Drovio](https://www.drovio.com/github-students/) [FREE] - Remote pair programming and team collaboration tool. Free Standard subscription while you're a student, to be renewed every 6 months.
 
 * [Github Campus Experts](https://apply.githubcampus.expert/) [FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
+
+* [Scrimba](https://apply.githubcampus.expert/) [FREE] - Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro courses, projects, and coding challenges, which includes 40+ courses available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ##  Data science
 
