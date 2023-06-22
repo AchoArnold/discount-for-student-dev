@@ -62,7 +62,7 @@ Table of Contents
   
   * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
   
-  * [Xamarin IDE](https://xamarin.com/student) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
+  * [Xamarin IDE](https://devblogs.microsoft.com/xamarin/xamarin-for-students/) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
   
   * [Visual Studio Community 2017](https://visualstudio.microsoft.com/vs/community/) [FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
   
@@ -134,8 +134,6 @@ Table of Contents
 
 * [RoseHosting](https://www.rosehosting.com) [DISCOUNT] - RoseHosting offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting/) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code "STUDENT20". Valid for new customers only. Cannot be combined with any other offer.
 
-* [SiteGround](https://www.siteground.com/students-plan.htm) [DISCOUNT] - $1.99/month instead of $3.95/month on their [StartUp plan](https://www.siteground.com/shared-hosting-features.htm).
-
 * [Bip](https://bip.sh/students) [DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount for students [on all plans](https://bip.sh/pricing).
 
 * [Education Host](https://education.github.com/pack) [FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
@@ -199,10 +197,6 @@ Table of Contents
 
 * [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) - Microsoft Azure is an ever-expanding set of cloud services to help you build, manage, and deploy applications. Level up your ideas by learning cloud computing skills and get a $100 credit with your free Azure for Students account—no credit card required.
 
-* [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [FREE] - Kaltura VPaaS simplifies building smart, interactive VOD, Live and real-time video experiences and apps at global scale.$10K/year in Kaltura VPaaS credits while you are a student.
-
-* [FlashDrive.io](https://flashdrive.io) - Deploy any code directly from Git with lot of supported languages out of the box and Docker support. $100 free credits for everyone + $1000 free credits per year with student program (ask support@flashdrive.io)
-
 * [Northflank](https://northflank.com) [FREE] - Build and deploy microservices, jobs and managed databases. Perfect for student and university projects and team collaboration. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, 2 cron jobs and 1 database. Or 4 services via [Northflank Student Developer Pack](https://northflank.com/student-developer-pack).
 
 ## Email
@@ -218,7 +212,7 @@ Table of Contents
 
   * [Travis CI](https://travis-ci.org) [FREE] - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [StyleCI](https://blog.alt-three.com/introducing-the-student-plan/) [FREE / CREDIT] - Free Student Plan with access to StyleCI for up to five private repositories.
+* [StyleCI](https://blog.styleci.io/introducing-the-student-plan/) [FREE / CREDIT] - Free Student Plan with access to StyleCI for up to five private repositories.
 
 * [Semaphore](https://docs.semaphoreci.com/account-management/discounts/) [FREE / DISCOUNT]- Free account for students and educators with a 25% discount for qualifying schools and institutions.
 
@@ -263,8 +257,6 @@ Table of Contents
 * [POEditor](https://education.github.com/pack) [FREE] - POEditor is a highly scalable localization management platform for teams.Plus Plan for free for one year.
 
 ## Programming Help
-
-  * [HackHands](https://hackhands.com/education/) [CREDIT]- Live programming help available 24/7. $25 in platform credit to students via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Evernote](https://evernote.com/students) [DISCOUNT] - Capture, organize, and share notes from anywhere. Get 50% off a full year of Evernote Premium.
 
@@ -387,8 +379,6 @@ Table of Contents
 * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
 
 * [IBM Student Developer Community](https://developer.ibm.com/students/) [FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
-
-* [Figure Eight](https://www.figure-eight.com/) [FREE] - CrowdFlower is now Figure Eight.Figure Eight is the essential Human-in-the-Loop AI platform for data science & machine learning teams.
 
 * [Exploratory](https://exploratory.io/) [FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
 
