@@ -80,19 +80,19 @@ Table of Contents
   
   * [Wisej](https://wisej.com/github-studentpack/) [FREE] - Build powerful web applications in Visual Studio with C# or VB.NET.Free Wisej Developer license plus free updates for a year.
   
-  * [DeepScan](https://education.github.com/pack/redeem/deepscan) [FREE] - DeepScan is a platform for building better and more reliable JavaScript apps.Free 6-month trial while you are a student.
+  * [DeepScan](https://education.github.com/pack) [FREE] - DeepScan is a platform for building better and more reliable JavaScript apps.Free 6-month trial while you are a student.
   
-  * [PopSQL](https://education.github.com/pack/redeem/popsql) [FREE] - Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.Free Premium subscription for PopSQL while you're a student.
+  * [PopSQL](https://education.github.com/pack) [FREE] - Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.Free Premium subscription for PopSQL while you're a student.
   
   * [SQLGate](https://www.sqlgate.com/student-pack) [FREE] - Simple but powerful IDE for multiple SQL databases.Access to most Standard Subscription features for 1 year.
   
-  * [Kodika](https://education.github.com/pack/redeem/kodika) [FREE] - Build iOS applications with drag & drop.Kodika Unlimited Pro subscription free for 6 months.
+  * [Kodika](https://education.github.com/pack) [FREE] - Build iOS applications with drag & drop.Kodika Unlimited Pro subscription free for 6 months.
   
-  * [Polypane](https://education.github.com/pack/redeem/polypane) [FREE] - A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time.Polypane free for 1 year.
+  * [Polypane](https://education.github.com/pack) [FREE] - A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time.Polypane free for 1 year.
 
-  * [Xojo](https://education.github.com/pack/redeem/xojo) [FREE] - A cross-platform development tool for making native apps for the Desktop.Xojo Desktop license free while you are a student.
+  * [Xojo](https://education.github.com/pack) [FREE] - A cross-platform development tool for making native apps for the Desktop.Xojo Desktop license free while you are a student.
   
-  * [Yakindu](https://education.github.com/pack/redeem/yakindu) [FREE] - An integrated modelling environment for the specification and development of reactive, event-driven systems based on the concept of state machines.Yakindu Professional Edition free for 1 year.
+  * [Yakindu](https://education.github.com/pack) [FREE] - An integrated modelling environment for the specification and development of reactive, event-driven systems based on the concept of state machines.Yakindu Professional Edition free for 1 year.
 
 
 ## Version Control
@@ -113,19 +113,19 @@ Table of Contents
 
 * [Codecov](https://about.codecov.io/for/education/) [FREE] - Codecov makes it easy to implement code coverage to develop healthier code.Free access to Codecov on public and private repositories.
 
-* [AcessLint](https://education.github.com/pack/redeem/accesslint-student) [FREE] - AccessLint brings automated web accessibility testing into your development workflow.Unlimited use for public and private repositories while you are a student.
+* [AcessLint](https://education.github.com/pack) [FREE] - AccessLint brings automated web accessibility testing into your development workflow.Unlimited use for public and private repositories while you are a student.
 
-* [Coveralls](https://education.github.com/pack/redeem/coveralls-student) [FREE] - We help you deliver code confidently by showing which parts of your code aren’t covered by your test suite.Free coverage for unlimited private repos on your personal account.
+* [Coveralls](https://education.github.com/pack) [FREE] - We help you deliver code confidently by showing which parts of your code aren’t covered by your test suite.Free coverage for unlimited private repos on your personal account.
 
 * [Datree](https://app.datree.io/github-student-pack) [FREE] - Datree is a git-based rules engine for enforcing best development practices, coding standards, and security policies on every commit.Free Pro subscription while you are a student.
 
-* [DeepSource](https://education.github.com/pack/redeem/deepsource) [FREE] - Static code analyzer for Python and Go. Detect bug risks, anti-patterns and security vulnerabilities.Free Pro subscription for students.
+* [DeepSource](https://education.github.com/pack) [FREE] - Static code analyzer for Python and Go. Detect bug risks, anti-patterns and security vulnerabilities.Free Pro subscription for students.
 
 * [Imgbot](https://imgbot.net/github-students/) [FREE] - Imgbot is a GitHub App that automatically optimizes your images.Free image optimization for all your public and private projects while you are a student.
 
 * [Restyled](https://restyled.io/github-students) [FREE] - With Restyled, automatically re-format Pull Requests to have consistent style.Run Restyled for free on private repositories while you're a student.
 
-* [Side](https://education.github.com/pack/redeem/sider) [FREE] - Maximize your engineering team's productivity by automatically analyzing every pull request.Sider Standard Plan free while you are a student.
+* [Side](https://education.github.com/pack) [FREE] - Maximize your engineering team's productivity by automatically analyzing every pull request.Sider Standard Plan free while you are a student.
 
 
 ## Web Hosting
@@ -138,7 +138,7 @@ Table of Contents
 
 * [Bip](https://bip.sh/students) [DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount for students [on all plans](https://bip.sh/pricing).
 
-* [Education Host](https://education.github.com/pack/redeem/educationhost) [FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
+* [Education Host](https://education.github.com/pack) [FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [NodeHost](https://nodehost.ca/education) [FREE] - PHP hosting. 500MB Storage, 80GB Bandwidth, 1 Database, and 2 email accounts per site, 28 day backup history.
 
@@ -153,7 +153,7 @@ Table of Contents
 
   * [Adobe Creative Cloud](https://www.adobe.com/creativecloud/buy/students.html) [DISCOUNT] - Students save big with 60% off Creative Cloud.
 
-* [Sketch](https://backend.bohemiancoding.com/store/edu/) [DISCOUNT] - 50% off your copy of Sketch when you get an educational license.
+* [Sketch](https://www.sketch.com/education/) [FREE] - Get Sketch for free as a student or educator.
 
 * [Canva](https://www.canva.com) [FREE] - Free 12 month subscription of Canva's Pro tier via [Github Student Developer Pack](https://education.github.com/pack).
 
@@ -180,9 +180,9 @@ Table of Contents
 
 * [Algolia](https://www.algolia.com/developers/github/) [FREE] - Hosted search API that provides support from front end to back end frameworks and libraries. 100k records and 1 million operations, valid for 1 year.
 
-* [Blockchair](https://education.github.com/pack/redeem/blockchair-student) [FREE] - Connect to the world of blockchains through Blockchair’s professional APIs — supports most major cryptocurrencies.100,000 free requests.
+* [Blockchair](https://education.github.com/pack) [FREE] - Connect to the world of blockchains through Blockchair’s professional APIs — supports most major cryptocurrencies.100,000 free requests.
 
-* [Customerly](https://education.github.com/pack/redeem/customerly) [FREE] - Live chat, behavioural funnels, newsletters, and in-app surveys for SaaS.Customerly Pro free for 6 months.
+* [Customerly](https://education.github.com/pack) [FREE] - Live chat, behavioural funnels, newsletters, and in-app surveys for SaaS.Customerly Pro free for 6 months.
 
 * [Loom Pro](https://support.loom.com/hc/en-us/articles/360006579637-Loom-Pro-Free-for-Students-and-Teachers/?ref=codegena.com)[FREE] - Loom is a video recording tool that helps you get your message across through instantly shareable videos.
 
@@ -209,7 +209,7 @@ Table of Contents
 
   * [Send Grid](https://sendgrid.com/partner/github-education) [CREDIT] - Student plan 15K free emails/month (normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Mailgun](https://education.github.com/pack/redeem/mailgun) [FREE] - Powerful APIs that enable you to send, receive and track email effortlessly.20,000 free emails and 100 free email validations each month for up to 12 months, available via [Github Student Developer Pack](https://education.github.com/pack).
+* [Mailgun](https://education.github.com/pack) [FREE] - Powerful APIs that enable you to send, receive and track email effortlessly.20,000 free emails and 100 free email validations each month for up to 12 months, available via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Testmail.app](https://testmail.app/github-students) [FREE] - Get unlimited email addresses and mailboxes for automating email tests with our powerful APIs. Free Essential plan while you're a student.
 
@@ -245,9 +245,9 @@ Table of Contents
 
 * [Weglot](https://weglot.com/github-students/) [FREE] - Make any website multilingual and manage your translations through a single platform.Free 1-year Pro Plan giving you access to unlimited languages + up to 200k translated words.
 
-* [LingoHub](https://education.github.com/pack/redeem/lingohub) [FREE] - Translation management service for web, desktop and mobile apps.Free Professional Plan containing 10,000 text segments for students.
+* [LingoHub](https://education.github.com/pack) [FREE] - Translation management service for web, desktop and mobile apps.Free Professional Plan containing 10,000 text segments for students.
 
-* [MongoDB](https://education.github.com/pack/redeem/mongodb) [FREE] - A general purpose, document-based, distributed database built for modern application developers and for the cloud era.$200 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification.
+* [MongoDB](https://education.github.com/pack) [FREE] - A general purpose, document-based, distributed database built for modern application developers and for the cloud era.$200 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification.
 
 
 ## Maps
@@ -258,9 +258,9 @@ Table of Contents
 
   * [Transifex](https://www.transifex.com) [FREE / CREDIT]- A localization platform for translating digital content. 1 Free Year worth $99/month available via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Crowdin](https://education.github.com/pack/redeem/crowdin)[FREE] - Crowdin is a cloud-based solution that streamlines localization management.Bronze plan for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
+* [Crowdin](https://education.github.com/pack)[FREE] - Crowdin is a cloud-based solution that streamlines localization management.Bronze plan for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [POEditor](https://education.github.com/pack/redeem/poeditor) [FREE] - POEditor is a highly scalable localization management platform for teams.Plus Plan for free for one year.
+* [POEditor](https://education.github.com/pack) [FREE] - POEditor is a highly scalable localization management platform for teams.Plus Plan for free for one year.
 
 ## Programming Help
 
@@ -268,11 +268,11 @@ Table of Contents
 
 * [Evernote](https://evernote.com/students) [DISCOUNT] - Capture, organize, and share notes from anywhere. Get 50% off a full year of Evernote Premium.
 
-* [Covalence](https://education.github.com/pack/redeem/covalence)[FREE] - Join an exclusive developer community and learn Full Stack web-development with no long-term commitments.One free month of Covalence's Atomic Plan and two 1-on-1 mentoring sessions via [Github Student Developer Pack](https://education.github.com/pack).
+* [Covalence](https://education.github.com/pack)[FREE] - Join an exclusive developer community and learn Full Stack web-development with no long-term commitments.One free month of Covalence's Atomic Plan and two 1-on-1 mentoring sessions via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Transloadit](https://transloadit.com/github-students/) [FREE] - A versatile uploading & encoding API to automate any file conversion. The Startup plan for free, including 10GB of encoding credit.
 
-* [Jaamly](https://education.github.com/pack/redeem/jaamly) [FREE] - Helping developers, designers, and startups to launch their apps on the App Store.Jaamly Startup plan free for 6 months.
+* [Jaamly](https://education.github.com/pack) [FREE] - Helping developers, designers, and startups to launch their apps on the App Store.Jaamly Startup plan free for 6 months.
 
 
 ## Domain Name Registers
@@ -298,9 +298,9 @@ Table of Contents
 
 * [BrowserStack](https://www.browserstack.com/github-students) [FREE] - Test your web apps with BrowserStack's Real Device Cloud, which gives you instant access to 2000+ browsers and real iOS and Android devices.Free Automate Mobile Plan for 1 parallel and 1 user for 1 year.
 
-* [LambdaTest](https://education.github.com/pack/redeem/lambdatest) [FREE] - Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.Free LambdaTest Live Plan for one year.
+* [LambdaTest](https://education.github.com/pack) [FREE] - Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.Free LambdaTest Live Plan for one year.
 
-* [SOFY](https://education.github.com/pack/redeem/sofy) [FREE] - SOFY automates your software testing, uses machine learning to create tests, suggests test scenarios based on product changes, customer usage data and runs at scale.6 months of free website and mobile app testing.
+* [SOFY](https://education.github.com/pack) [FREE] - SOFY automates your software testing, uses machine learning to create tests, suggests test scenarios based on product changes, customer usage data and runs at scale.6 months of free website and mobile app testing.
 
 
 ## Software Modeling Tools
@@ -328,28 +328,28 @@ Table of Contents
 
 * [Appfigures](https://appfigures.com/landing/github-student) [FREE] - App Store analytics, optimization, and intelligence. Free access to the Grow plan for 1 year.
 
-* [Scrapinghub](https://education.github.com/pack/redeem/scrapinghub) [FREE] - Scrapinghub's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
+* [Scrapinghub](https://education.github.com/pack) [FREE] - Scrapinghub's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
 
-* [Typeform](https://education.github.com/pack/redeem/typeform) [FREE] - Interactive forms, surveys & quizzes to engage and grow your audience.Free professional plan for 1 year.
+* [Typeform](https://education.github.com/pack) [FREE] - Interactive forms, surveys & quizzes to engage and grow your audience.Free professional plan for 1 year.
 
-* [Baremetrics](https://education.github.com/pack/redeem/baremetrics-student) [FREE] - Metrics, dunning, and engagement tools for SaaS & subscription businesses.Get Baremetrics for free up to $2.5k Monthly Recurring Revenue while you are a student.
+* [Baremetrics](https://education.github.com/pack) [FREE] - Metrics, dunning, and engagement tools for SaaS & subscription businesses.Get Baremetrics for free up to $2.5k Monthly Recurring Revenue while you are a student.
 
-* [CodeScene](https://education.github.com/pack/redeem/codescene-student) [FREE] - A powerful visualization tool that uses Predictive Analytics to identify social patterns in your code, detect delivery risks and manage technical debt.A free Student account to analyze private GitHub repositories.
+* [CodeScene](https://education.github.com/pack) [FREE] - A powerful visualization tool that uses Predictive Analytics to identify social patterns in your code, detect delivery risks and manage technical debt.A free Student account to analyze private GitHub repositories.
 
 * [Simple Analytics](https://simpleanalytics.com/students) [FREE] - Privacy-friendly analytics with a simple interface and API.Starter plan free for one year, including 100k page views per month.
 
-* [DailyBot](https://education.github.com/pack/redeem/dailybot) [FREE] - Automate daily stand-ups, follow-ups, retrospectives, surveys and feedback for your team.DailyBot Business plan free for 1 year.
+* [DailyBot](https://education.github.com/pack) [FREE] - Automate daily stand-ups, follow-ups, retrospectives, surveys and feedback for your team.DailyBot Business plan free for 1 year.
 
-* [Freshpaint](https://education.github.com/pack/redeem/freshpaint) [FREE] - Integrate your marketing and analytics tools with one click.Free Freshpaint Growth Plan while you are a student.
+* [Freshpaint](https://education.github.com/pack) [FREE] - Integrate your marketing and analytics tools with one click.Free Freshpaint Growth Plan while you are a student.
 
-* [Raygun](https://education.github.com/pack/redeem/raygun) [FREE] - Error, crash and performance monitoring for web and mobile apps. Startup Platform plan, free for one year.
+* [Raygun](https://education.github.com/pack) [FREE] - Error, crash and performance monitoring for web and mobile apps. Startup Platform plan, free for one year.
 
 * [AnyChart](https://www.anychart.com/buy/non-commercial-license/) [FREE] - A flexible JavaScript library for creating interactive charts, maps, and dashboards for visual analytics. Provides students with a free license for use in their education or other non-commercial projects.
 
 
 ## Game Development Tools
 
- * [Unity3D](https://education.github.com/pack/redeem/unity) [FREE] -Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games.Unity Student Plan free while you are a student.
+ * [Unity3D](https://education.github.com/pack) [FREE] -Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games.Unity Student Plan free while you are a student.
 
 * [Unreal Game Engine](https://www.unrealengine.com/en-US/learn) [FREE] - Unreal Engine 4 is a complete suite of game development tools. From 2D mobile games to console blockbusters and VR, Unreal Engine 4 gives you everything you need to start, ship, grow and stand out from the crowd. Part of the [Github Student Developer Pack](https://education.github.com/pack)
 
@@ -371,7 +371,7 @@ Table of Contents
 
 * [Datadog](https://studentpack.datadoghq.com/) [FREE] - 2-Year License for a Datadog Pro account, good for monitoring 10 servers. Part of the [Github Student Developer Pack](https://education.github.com/pack)
 
-* [HoneyBadger](https://education.github.com/pack/redeem/honeybadger)[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
+* [HoneyBadger](https://education.github.com/pack)[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [LogDNA](https://www.logdna.com/blog/get-a-free-logdna-account-in-the-github-student-developer-pack)[FREE] - Log management platform that offers aggregation, monitoring, and analysis of server and application logs at any volume, from any source.Up to 50 GB/month of log storage with 14 day retention for one year via [Github Student Developer Pack](https://education.github.com/pack).
 
