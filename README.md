@@ -74,7 +74,7 @@ Table of Contents
   
   * [Repl](https://replit.com/site/github-students) [FREE] - An online IDE that lets you instantly code in over fifty languages.Hacker plan, includes unlimited private repls and multiplayer invites. Free for one year available via [Github Student Developer Pack](https://education.github.com/pack)
   
-  * [GitPod](https://www.gitpod.io/github-student-developer-pack/)[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click.Free personal plan subscription for six months for students via [Github Student Developer Pack](https://education.github.com/pack).
+  * [GitHub Codespaces](https://www.github.com/codespaces/)[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click. Free personal plan subscription for as long as you are a student via [Github Student Developer Pack](https://education.github.com/pack).
   
   * [Atom](https://github.atom.io/) [FREE] - Atom is a free and open-source text and source code editor developed by GitHub (Atom – A Hackable Text and Source Code Editor).
   
