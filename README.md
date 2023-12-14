@@ -48,127 +48,107 @@ Table of Contents
 ## IDE and Code Editing
 
   * [JetBrains IDE pack](https://www.jetbrains.com/community/education/) [FREE] - Free professional developer IDEs and tools from JetBrains, including:
-    * ReSharper Ultimate - Visual Studio Extension
-    * IntelliJ - JVM based development
-    * AppCode - iOS/macOS IDE
     * CLion - C/C++ IDE
     * DataGrip - Database/SQL IDE
+    * DataSpell - Data analysis IDE
+    * dotCover, dotMemory, dotTrace - .NET Tools
     * GoLand - Go IDE
+    * IntelliJ IDEA Ultimate - Java IDE
     * PhpStorm - PHP IDE
     * PyCharm - Python IDE
+    * ReSharper - Visual Studio Extension for .NET
+    * ReSharper C++ - Visual Studio Extension for C++
     * Rider - .NET IDE
-    * WebStorm - JavaScript IDE
     * RubyMine - Ruby IDE
+    * WebStorm - JavaScript IDE
   
-  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
-  
-  * [Xamarin IDE](https://devblogs.microsoft.com/xamarin/xamarin-for-students/) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
-  
-  * [Visual Studio Community 2017](https://visualstudio.microsoft.com/vs/community/) [FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
+  * [Visual Studio Community 2022](https://visualstudio.microsoft.com/vs/community/) [FREE] - IDE for C#, Javascript, C++ and others. Latest release includes Xamarin.
   
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) [FREE] - IDE that creates responsive websites using the Bootstrap framework.
   
   * [MATLAB](https://in.mathworks.com/products/matlab/student.html) [DISCOUNT] - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.
   
-  * [ShiftEdit](https://shiftedit.net/) [DISCOUNT] - ShiftEdit is a powerful online IDE for developing websites. Discount for educations. $750 a year for 50 licenses.
-  
-  * [Repl](https://replit.com/site/github-students) [FREE] - An online IDE that lets you instantly code in over fifty languages.Hacker plan, includes unlimited private repls and multiplayer invites. Free for one year available via [Github Student Developer Pack](https://education.github.com/pack)
+  * [Repl](https://replit.com/site/github-students) [FREE] - An online IDE that lets you instantly code in over fifty languages. Hacker plan, includes unlimited private repls and multiplayer invites. Free for one year available via [Github Student Developer Pack](https://education.github.com/pack)
   
   * [GitHub Codespaces](https://www.github.com/codespaces/)[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click. Free personal plan subscription for as long as you are a student via [Github Student Developer Pack](https://education.github.com/pack).
   
-  * [Atom](https://github.atom.io/) [FREE] - Atom is a free and open-source text and source code editor developed by GitHub (Atom – A Hackable Text and Source Code Editor).
+  * [DeepScan](https://education.github.com/pack) [FREE] - DeepScan is a platform for building better and more reliable JavaScript apps. Free 6-month trial while you are a student.
   
-  * [Wisej](https://wisej.com/github-studentpack/) [FREE] - Build powerful web applications in Visual Studio with C# or VB.NET.Free Wisej Developer license plus free updates for a year.
+  * [PopSQL](https://education.github.com/pack) [FREE] - Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results. Free Premium subscription for PopSQL while you're a student.
   
-  * [DeepScan](https://education.github.com/pack) [FREE] - DeepScan is a platform for building better and more reliable JavaScript apps.Free 6-month trial while you are a student.
+  * [SQLGate](https://www.sqlgate.com/student-pack) [FREE] - Simple but powerful IDE for multiple SQL databases. Access to most Standard Subscription features for 1 year.
   
-  * [PopSQL](https://education.github.com/pack) [FREE] - Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.Free Premium subscription for PopSQL while you're a student.
+  * [Kodika](https://education.github.com/pack) [FREE] - Build iOS applications with drag & drop. Kodika Unlimited Pro subscription free for 6 months.
   
-  * [SQLGate](https://www.sqlgate.com/student-pack) [FREE] - Simple but powerful IDE for multiple SQL databases.Access to most Standard Subscription features for 1 year.
-  
-  * [Kodika](https://education.github.com/pack) [FREE] - Build iOS applications with drag & drop.Kodika Unlimited Pro subscription free for 6 months.
-  
-  * [Polypane](https://education.github.com/pack) [FREE] - A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time.Polypane free for 1 year.
+  * [Polypane](https://education.github.com/pack) [FREE] - A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time. Polypane free for 1 year.
 
-  * [Xojo](https://education.github.com/pack) [FREE] - A cross-platform development tool for making native apps for the Desktop.Xojo Desktop license free while you are a student.
+  * [Xojo](https://education.github.com/pack) [FREE] - A cross-platform development tool for making native apps for the Desktop. Xojo Pro license free while you are a student.
   
-  * [Yakindu](https://education.github.com/pack) [FREE] - An integrated modelling environment for the specification and development of reactive, event-driven systems based on the concept of state machines.Yakindu Professional Edition free for 1 year.
+  * [itemis CREATE(formerly Yakindu)](https://info.itemis.com/products/itemis-create/academic/order/) [FREE] - An integrated modelling environment for the specification and development of reactive, event-driven systems based on the concept of state machines. itemis CREATE Professional Edition free after application.
 
 
 ## Version Control
 
-  * [Tower](https://www.git-tower.com/students/github) [DISCOUNT] -  The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.Free Pro account for 1 year.
+  * [Tower](https://www.git-tower.com/students/github) [DISCOUNT] -  The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows. Free license for Tower Pro while you're a student.
 
-* [GitKraken](https://www.gitkraken.com/github-student-developer-pack) [FREE] - Another free as in price desktop Git client. Based on Electron, runs on Windows, GNU/Linux, and Mac. To claim free 1-year PRO license, you must claim your [Github Student Developer Pack](https://education.github.com/pack) and sign in to the desktop client w/ GitHub.
+* [GitKraken](https://www.gitkraken.com/github-student-developer-pack) [FREE] - Pro version of the GitKraken Client. Sign into the desktop version after getting your [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Sentry](https://sentry.io/for/education/) [FREE] - Open-source error tracking that helps developers monitor and fix crashes in real time.Also included via [Github Student Developer Pack](https://education.github.com/pack).
+* [Sentry](https://sentry.io/for/education/) [FREE] - Open-source error tracking that helps developers monitor and fix crashes in real time. Also included via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Working Copy](https://workingcopy.app/education/) [FREE] - Powerful Git client for iOS that clones, edits, commits, pushes.All Pro features for free while you are a student via [Github Student Developer Pack](https://education.github.com/pack).
+* [Working Copy](https://workingcopy.app/education/) [FREE] - Powerful Git client for iOS that clones, edits, commits, pushes. All Pro features for free while you are a student via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Github Desktop](https://desktop.github.com/) [FREE] - Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow.
 
-* [Better Code Hub](https://bettercodehub.com/github-student-developer-pack) [FREE] -Better Code Hub provides a definition of done for code quality and actionable refactoring feedback for every push and pull request. A free upgrade to an Individual license to analyse your personal private repos.
+* [Blackfire.io](https://www.blackfire.io/students) [FREE] - Code performance measurement tool. Find & fix bottlenecks. Free Profiler subscription for students.
 
-* [Blackfire.io](https://www.blackfire.io/students) [FREE] - Code performance measurement tool. Find & fix bottlenecks.Free Profiler subscription for students.
+* [Codecov](https://about.codecov.io/for/education/) [FREE] - Codecov makes it easy to implement code coverage to develop healthier code. Free access to Codecov on public and private repositories.
 
-* [Codecov](https://about.codecov.io/for/education/) [FREE] - Codecov makes it easy to implement code coverage to develop healthier code.Free access to Codecov on public and private repositories.
+* [AccessLint](https://education.github.com/pack) [FREE] - AccessLint brings automated web accessibility testing into your development workflow. Unlimited use for public and private repositories while you are a student.
 
-* [AcessLint](https://education.github.com/pack) [FREE] - AccessLint brings automated web accessibility testing into your development workflow.Unlimited use for public and private repositories while you are a student.
+* [DeepSource](https://education.github.com/pack) [FREE] - Static code analyzer for Python and Go. Detect bug risks, anti-patterns and security vulnerabilities. Free for students.
 
-* [Coveralls](https://education.github.com/pack) [FREE] - We help you deliver code confidently by showing which parts of your code aren’t covered by your test suite.Free coverage for unlimited private repos on your personal account.
+* [Imgbot](https://imgbot.net/github-students/) [FREE] - Imgbot is a GitHub App that automatically optimizes your images. Free image optimization for all your public and private projects while you are a student.
 
-* [Datree](https://app.datree.io/github-student-pack) [FREE] - Datree is a git-based rules engine for enforcing best development practices, coding standards, and security policies on every commit.Free Pro subscription while you are a student.
-
-* [DeepSource](https://education.github.com/pack) [FREE] - Static code analyzer for Python and Go. Detect bug risks, anti-patterns and security vulnerabilities.Free Pro subscription for students.
-
-* [Imgbot](https://imgbot.net/github-students/) [FREE] - Imgbot is a GitHub App that automatically optimizes your images.Free image optimization for all your public and private projects while you are a student.
-
-* [Restyled](https://restyled.io/github-students) [FREE] - With Restyled, automatically re-format Pull Requests to have consistent style.Run Restyled for free on private repositories while you're a student.
-
-* [Side](https://education.github.com/pack) [FREE] - Maximize your engineering team's productivity by automatically analyzing every pull request.Sider Standard Plan free while you are a student.
+* [Restyled](https://restyled.io/github-students) [FREE] - With Restyled, automatically re-format Pull Requests to have consistent style. Run Restyled for free on private repositories while you're a student.
 
 
 ## Web Hosting
 
-  * [Digital Ocean](https://www.digitalocean.com) [CREDIT] - Digital Ocean provides $100 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
+  * [Digital Ocean](https://www.digitalocean.com) [CREDIT] - Digital Ocean provides $200 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
 
-* [RoseHosting](https://www.rosehosting.com) [DISCOUNT] - RoseHosting offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting/) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code "STUDENT20". Valid for new customers only. Cannot be combined with any other offer.
+* [RoseHosting](https://www.rosehosting.com) [DISCOUNT] - RoseHosting offers education specific hosting as well as general shared and dedicated hosting.
 
-* [Bip](https://bip.sh/students) [DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount for students [on all plans](https://bip.sh/pricing).
+* [Bip](https://bip.sh/students) [DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount per domain on your student account [on all plans](https://bip.sh/pricing).
 
-* [Education Host](https://education.github.com/pack) [FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
+* [Education Host](https://education.github.com/pack) [FREE] - 50% web hosting for the first year for students. Available via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [NodeHost](https://nodehost.ca/education) [FREE] - PHP hosting. 500MB Storage, 80GB Bandwidth, 1 Database, and 2 email accounts per site, 28 day backup history.
 
-* [Pageclip](https://pageclip.co/github-students) [FREE] - A server for your static websites and HTML forms.Free basic plan while you are a student.
+* [Pageclip](https://pageclip.co/github-students) [FREE] - A server for your static websites and HTML forms. Free basic plan while you are a student.
 
-* [Qoddi](https://qoddi.com) [CREDIT] - Qoddi offers $1000 per year for [every student](https://blog.qoddi.com/flashdrive-student-program/)
+* [Qoddi](https://qoddi.com) [CREDIT] - Qoddi offers $250 per year for [every student](https://blog.qoddi.com/flashdrive-student-program/) when you are approved
 
 * [InterServer](https://www.interserver.net/webhosting/student-webhosting.html/) [FREE] - Standard Web Hosting Package for Free for the first year for students.
 
 
 ## Design and Photo Editing
 
-  * [Adobe Creative Cloud](https://www.adobe.com/creativecloud/buy/students.html) [DISCOUNT] - Students save big with 60% off Creative Cloud.
+* [Adobe Creative Cloud](https://www.adobe.com/creativecloud/buy/students.html) [DISCOUNT] - Students recieve discounts on Adobe apps and the Creative Cloud.
 
 * [Sketch](https://www.sketch.com/education/) [FREE] - Get Sketch for free as a student or educator.
-
-* [Canva](https://www.canva.com) [FREE] - Free 12 month subscription of Canva's Pro tier via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Icons8](https://icons8.com/github-students)[FREE] - Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects. Full 3-month all access subscription with icons, photos, illustrations, and music via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Figma](https://www.figma.com/education/) [FREE] - Receive Professional Team features for free when verified as a student.
 
-* [Iconscout](https://iconscout.com/github-students) [FREE] - Iconscout is design resources marketplace to get high quality icons, illustrations and stock images.Download 60 premium icons per month for 1 year.
+* [Iconscout](https://iconscout.com/github-students) [FREE] - Iconscout is design resources marketplace to get high quality icons, illustrations and stock images. Download 60 premium icons per month for 1 year.
 
 * [Themeisle](https://themeisle.com/github-students/)[FREE] - Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone. Free year of Neve Agency WordPress theme exclusively for students.
 
-* [MDBootstrap](https://mdbootstrap.com/general/mdb-edu/) [FREE / DISCOUNT] - Set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages. Free tools worth $2049/year for all educational projects and 50% discount for a student.
+* [MDBootstrap](https://mdbootstrap.com/general/mdb-edu/) [DISCOUNT] - Set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages. 50% discount for students.
 
 
 ## SaaS
-
-  * [Ip Geolocation](https://ipgeolocation.io/) [DISCOUNT] -  Free for 50K requests and 50% discount on all paid plans for students.
 
 * [Taskade - Team Productivity](https://www.taskade.com/) [DISCOUNT] -  Students get 50% permanent discount on Taskade Pro subscriptions. Use the coupon code "students50" on checkout and start collaborating on Taskade with team task, notes and chat.
 
