@@ -301,7 +301,9 @@ Table of Contents
 * [Appfigures](https://appfigures.com/landing/github-student) [FREE] - App Store analytics, optimization, and intelligence. Free access to the Grow plan for 1 year.
 
 * [Scrapinghub](https://education.github.com/pack) [FREE] - Scrapinghub's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
-[Crawlbase](https://crawlbase.com/) [FREE / CREDIT] Crawlbase, a web scraping and web crawling tool, is generously offering 5000 successful requests for free over a three-month period to students, who can take advantage of this opportunity by using the discount code 'SDNT2023'.
+
+* [Crawlbase](https://crawlbase.com/) [FREE / CREDIT] Crawlbase, a web scraping and web crawling tool, is generously offering 5000 successful requests for free over a three-month period to students, who can take advantage of this opportunity by using the discount code 'SDNT2023'.
+
 * [Typeform](https://education.github.com/pack) [FREE] - Interactive forms, surveys & quizzes to engage and grow your audience.Free professional plan for 1 year.
 
 * [Baremetrics](https://education.github.com/pack) [FREE] - Metrics, dunning, and engagement tools for SaaS & subscription businesses.Get Baremetrics for free up to $2.5k Monthly Recurring Revenue while you are a student.
