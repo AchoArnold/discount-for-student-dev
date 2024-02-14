@@ -292,7 +292,7 @@ Table of Contents
 
 ## Visual Analytics
 
-  * [CARTO](https://carto.com/help/getting-started/student-accounts/) [FREE / DISCOUNT] - Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
+  * [CARTO](https://docs.carto.com/faqs/carto-for-education#how-can-i-get-a-student-account-in-carto) [FREE / DISCOUNT] - Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
 
 * [Tableau Desktop](https://www.tableau.com/academic/students) [FREE] - One Year Professional License for Students.
 
