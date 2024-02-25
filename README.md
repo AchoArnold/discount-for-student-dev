@@ -122,8 +122,6 @@ Table of Contents
 
 * [Education Host](https://education.github.com/pack) [FREE] - 50% web hosting for the first year for students. Available via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [NodeHost](https://nodehost.ca/education) [FREE] - PHP hosting. 500MB Storage, 80GB Bandwidth, 1 Database, and 2 email accounts per site, 28 day backup history.
-
 * [Pageclip](https://pageclip.co/github-students) [FREE] - A server for your static websites and HTML forms. Free basic plan while you are a student.
 
 * [Qoddi](https://qoddi.com) [CREDIT] - Qoddi offers $250 per year for [every student](https://blog.qoddi.com/flashdrive-student-program/) when you are approved
@@ -206,8 +204,6 @@ Table of Contents
 ## Management Systems
 
   * [Bitnami](https://bitnami.com) [FREE] - Install cloud applications in a single click. Business 3 plan (normally $49/month) for one year available via [Github Student Developer Pack](https://education.github.com/pack).
-
-* [Yellow Circle](https://yellowcircle.net) [FREE] - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
 
 * [Vertabelo](https://www.vertabelo.com/) [FREE] - Fully-featured online tool for database design. Free for Educational Purposes.
 
