@@ -401,6 +401,8 @@ Table of Contents
 
 * [Scrimba](https://apply.githubcampus.expert/) [FREE] - Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro courses, projects, and coding challenges, which includes 40+ courses available via [Github Student Developer Pack](https://education.github.com/pack).
 
+* [Mastering Nuxt](https://masteringnuxt.com/) [DISCOUNT] - Solid [student discount](mailto:team@masteringnuxt.com) on a course to help you master Nuxt 2 or Nuxt 3.
+
 ##  Data science
 
 * [Deepnote](https://deepnote.com/education) [FREE] - The best way to collaborate with others on data science projects. Education plan allows you to create an unlimited amount of Deepnote teams and work with any number of collaborators.
