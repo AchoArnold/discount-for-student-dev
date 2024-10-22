@@ -165,6 +165,7 @@ Table of Contents
 * [Twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)[CREDIT] - Free $50 USD in Twilio API credits & Exclusive in-game items in TwilioQuest for student via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Tabula](https://docs.tabula.io/getting-started/plans-and-subscriptions/tabula-for-education) [DISCOUNT] - Tabula.io is a modern no-code data analytics and visualisation tool. Students get 60% permanent discount on Tabula Solo plan.
+* [Craft](https://www.craft.do/education) [FREE] - craft.do is an app for taking notes, writing to-do lists, organizing important documents, organizing them.
 
 
 ## PaaS
