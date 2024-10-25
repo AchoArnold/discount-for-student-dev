@@ -145,6 +145,7 @@ Table of Contents
 
 * [MDBootstrap](https://mdbootstrap.com/general/mdb-edu/) [DISCOUNT] - Set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages. 50% discount for students.
 
+* [UXPin](https://www.uxpin.com/pricing) [FREE] - is an online tool for UI design, Prototyping, and UX design. comes with a Design UI with code-backed components.
 
 ## SaaS
 
