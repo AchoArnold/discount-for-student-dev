@@ -406,6 +406,8 @@ Table of Contents
 ##  Data science
 
 * [Deepnote](https://deepnote.com/education) [FREE] - The best way to collaborate with others on data science projects. Education plan allows you to create an unlimited amount of Deepnote teams and work with any number of collaborators.
+* [Neptune](https://neptune.ai/research) [FREE] - Neptune is an experiment tracker for ML teams that struggle with debugging and reproducing experiments, sharing results, and messy model handovers free to use for Academic and research.
+* [Comet](https://www.comet.com/signup?plan=academic) [FREE] - Comet provides an end-to-end model evaluation platform for AI developers, with best-in-class LLM evaluations, experiment tracking, and production monitoring.
 
 # License
 
