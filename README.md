@@ -180,6 +180,7 @@ Table of Contents
 * [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) - Microsoft Azure is an ever-expanding set of cloud services to help you build, manage, and deploy applications. Level up your ideas by learning cloud computing skills and get a $100 credit with your free Azure for Students account—no credit card required.
 
 * [Northflank](https://northflank.com) [FREE] - Build and deploy microservices, jobs and managed databases. Perfect for student and university projects and team collaboration. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, 2 cron jobs and 1 database. Or 4 services via [Northflank Student Developer Pack](https://northflank.com/student-developer-pack).
+* [Alibaba Cloud](https://www.alibabacloud.com/en/developer/students?_p_lc=1) [FREE] - Enjoy free cloud servers, training courses, certifications, and exclusive campaigns and opportunities by verifying your student status. The offer is renewable as long as you are a student.
 
 ## Email
 
