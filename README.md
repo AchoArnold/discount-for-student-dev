@@ -261,7 +261,7 @@ Table of Contents
 
   * [NameCheap](https://www.namecheap.com/) [DISCOUNT] - One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Shodan](https://www.shodan.io/) [FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
+* [Shodan](https://help.shodan.io/the-basics/academic-upgrade) [FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
 
 * [Cryptolens](https://app.cryptolens.io/user/githubstudent) [FREE] - License and sell your software securely.10 licenses and any number of end-users for free for students.
 
@@ -274,6 +274,7 @@ Table of Contents
 * [LambdaTest](https://education.github.com/pack) [FREE] - Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.Free LambdaTest Live Plan for one year.
 
 * [SOFY](https://education.github.com/pack) [FREE] - SOFY automates your software testing, uses machine learning to create tests, suggests test scenarios based on product changes, customer usage data and runs at scale.6 months of free website and mobile app testing.
+* [Malwarebytes](https://www.malwarebytes.com/student-discount) [Discount] - Get 50% off device security by entering your information into ProxID to get verified as a student.
 
 
 ## Software Modeling Tools
