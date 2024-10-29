@@ -167,6 +167,10 @@ Table of Contents
 
 * [Tabula](https://docs.tabula.io/getting-started/plans-and-subscriptions/tabula-for-education) [DISCOUNT] - Tabula.io is a modern no-code data analytics and visualisation tool. Students get 60% permanent discount on Tabula Solo plan.
 * [Craft](https://www.craft.do/education) [FREE] - craft.do is an app for taking notes, writing to-do lists, organizing important documents, organizing them.
+* [Lucidchart](https://www.lucidchart.com/pages/usecase/education) [FREE] - Create flowcharts & diagrams online with Lucidchart. You don't need to download anything. Students are eligible for a free Education account using school email.
+* [Basecamp](https://basecamp.com/discounts) [FREE] - Basecamp's the project management platform that helps small teams move faster and make more progress than they ever thought possible. Sign up using school email and follow the steps from the link above.
+* [Miro](https://miro.com/education-whiteboard/) [FREE] - Free digital whiteboard for online education. The offer is valid for two years.
+* [Beautiful.ai](https://www.beautiful.ai/education) [FREE] - Beautiful.ai helps you and your entire class create modern presentations with ease. We believe that design and education should be accessible to everyone, so we’re excited to offer students a free annual Pro subscription. Simply verify your .edu account and we’ll send you a confirmation email with your coupon code.
 
 
 ## PaaS
