@@ -89,7 +89,7 @@ Table of Contents
 
 ## Version Control
 
-  * [Tower](https://www.git-tower.com/students/github) [DISCOUNT] -  The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows. Free license for Tower Pro while you're a student.
+  * [Tower](https://www.git-tower.com/students/windows) [FREE] -  Tower for Students provides free access to Tower "Pro" as a student. If you're enrolled as a student, you can use Tower "Pro" for free! Apply with your school email address.
 
 * [GitKraken](https://www.gitkraken.com/github-student-developer-pack) [FREE] - Pro version of the GitKraken Client. Sign into the desktop version after getting your [Github Student Developer Pack](https://education.github.com/pack).
 
