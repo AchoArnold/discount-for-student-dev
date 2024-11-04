@@ -118,8 +118,6 @@ Table of Contents
 
 * [RoseHosting](https://www.rosehosting.com) [DISCOUNT] - RoseHosting offers education specific hosting as well as general shared and dedicated hosting.
 
-* [Bip](https://bip.sh/students) [DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount per domain on your student account [on all plans](https://bip.sh/pricing).
-
 * [Education Host](https://education.github.com/pack) [FREE] - 50% web hosting for the first year for students. Available via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Pageclip](https://pageclip.co/github-students) [FREE] - A server for your static websites and HTML forms. Free basic plan while you are a student.
