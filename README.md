@@ -68,8 +68,6 @@ Table of Contents
   
   * [MATLAB](https://in.mathworks.com/products/matlab/student.html) [DISCOUNT] - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.
   
-  * [Repl](https://replit.com/site/github-students) [FREE] - An online IDE that lets you instantly code in over fifty languages. Hacker plan, includes unlimited private repls and multiplayer invites. Free for one year available via [Github Student Developer Pack](https://education.github.com/pack)
-  
   * [GitHub Codespaces](https://www.github.com/codespaces/)[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click. Free personal plan subscription for as long as you are a student via [Github Student Developer Pack](https://education.github.com/pack).
   
   * [DeepScan](https://education.github.com/pack) [FREE] - DeepScan is a platform for building better and more reliable JavaScript apps. Free 6-month trial while you are a student.
