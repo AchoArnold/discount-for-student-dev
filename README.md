@@ -280,11 +280,11 @@ Table of Contents
 * [DailyBot](https://education.github.com/pack) [FREE] - Automate daily stand-ups, follow-ups, retrospectives, surveys and feedback for your team.DailyBot Business plan free for 1 year.
 
 * [AnyChart](https://www.anychart.com/buy/non-commercial-license/) [FREE] - A flexible JavaScript library for creating interactive charts, maps, and dashboards for visual analytics. Provides students with a free license for use in their education or other non-commercial projects.
-
+* [Zyte](https://www.zyte.com/scrapy-cloud-student-backpack/) [FREE] - Scrapy Cloud is a battle-tested cloud platform for running web crawlers (aka. spiders). As a student, you can start scraping the web in minutes and deploy code to Scrapy Cloud via your command line or directly with GitHub for free. Spiders will crawl forever, plus your data will be cached for 120 days.
 
 ## Game Development Tools
 
- * [Unity3D](https://education.github.com/pack) [FREE] -Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games.Unity Student Plan free while you are a student.
+ * [Unity3D](https://unity.com/products/unity-student) [FREE] -Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games.Unity Student Plan free while you are a student.
 
 * [Unreal Game Engine](https://www.unrealengine.com/en-US/learn) [FREE] - Unreal Engine 4 is a complete suite of game development tools. From 2D mobile games to console blockbusters and VR, Unreal Engine 4 gives you everything you need to start, ship, grow and stand out from the crowd. Part of the [Github Student Developer Pack](https://education.github.com/pack)
 
