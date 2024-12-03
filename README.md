@@ -141,6 +141,8 @@ Table of Contents
 
 ## SaaS
 
+* [TailoredCV.ai](https://tailoredcv.ai/) [DISCOUNT] - Tailor your CVs to match job requirements with AI-powered assistance. Students get a 20% discount on TailoredCV subscriptions using the coupon code `STUDENTS20` at checkout. Start showcasing your skills and experiences effectively today!
+ 
 * [Taskade - Team Productivity](https://www.taskade.com/) [DISCOUNT] -  Students get 50% permanent discount on Taskade Pro subscriptions. Use the coupon code "students50" on checkout and start collaborating on Taskade with team task, notes and chat.
 
 * [Notion.so](https://www.notion.so/product/notion-for-education) [FREE] Free pro plan on Notion to Write, plan, collaborate, and get organized.
