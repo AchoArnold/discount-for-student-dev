@@ -35,6 +35,7 @@ Table of Contents
   * [Software Packs](#software-packs)
   * [Learning Resources](#learning-resources)
   * [Data science](#data-science)
+  * [Screen Recorders](#screen-recorders)
 
 
 
@@ -372,6 +373,11 @@ Table of Contents
 * [Deepnote](https://deepnote.com/education) [FREE] - The best way to collaborate with others on data science projects. Education plan allows you to create an unlimited amount of Deepnote teams and work with any number of collaborators.
 * [Neptune](https://neptune.ai/research) [FREE] - Neptune is an experiment tracker for ML teams that struggle with debugging and reproducing experiments, sharing results, and messy model handovers free to use for Academic and research.
 * [Comet](https://www.comet.com/signup?plan=academic) [FREE] - Comet provides an end-to-end model evaluation platform for AI developers, with best-in-class LLM evaluations, experiment tracking, and production monitoring.
+
+## Screen Recorders
+
+* [1001 Record](https://1001record.com/educational-discount) [DISCOUNT] - 1001 Record is the best screen recording app for Mac with a built-in annotation tool and more. 60% Discount for students.
+
 
 # License
 
