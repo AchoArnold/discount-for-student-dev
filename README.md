@@ -302,7 +302,7 @@ Table of Contents
 
  * [Autodesk Software](https://www.autodesk.com/education/free-software/featured) [FREE] - The Free Autodesk Education License includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder, Mudbox, Inventor Professional...
  * [Shapr3D](https://www.shapr3d.com/education) [FREE] - Create manufacturing-ready models true to design vision. Shapr3D's educational license is free for students, teachers and faculty members of accredited educational institutions. The license is valid for one year (365 days) and can be renewed once it expires.
-
+ * [Solid Edge](https://resources.sw.siemens.com/en-US/download-solid-edge-student-edition/) [FREE] - Free professional 3D CAD software for students.
 
 ## Password Managers
 
