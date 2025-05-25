@@ -222,7 +222,7 @@ Table of Contents
 * [Covalence](https://education.github.com/pack)[FREE] - Join an exclusive developer community and learn Full Stack web-development with no long-term commitments.One free month of Covalence's Atomic Plan and two 1-on-1 mentoring sessions via [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Transloadit](https://transloadit.com/github-students/) [FREE] - A versatile uploading & encoding API to automate any file conversion. The Startup plan for free, including 10GB of encoding credit.
-* [GitHub Copilot](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer) [FREE] - Free access to Copilot Individual while you're a student. To enable Copilot, go to your account settings and select Copilot under Code, planning, and Automation to sign up for free. Or click on the link below to claim the offer.
+* [GitHub Copilot](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer) [FREE] - Free access to Copilot Pro while you're a student. To enable Copilot Pro, go to your account settings and under Code, planning, and automation, select Copilot to sign up for free. Or click on the link below to claim the offer.
 
 
 ## Domain Name Registers
