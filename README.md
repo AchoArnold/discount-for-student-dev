@@ -186,6 +186,9 @@ Table of Contents
 
 * [Testmail.app](https://testmail.app/github-students) [FREE] - Get unlimited email addresses and mailboxes for automating email tests with our powerful APIs. Free Essential plan while you're a student.
 
+* [Lettermint](https://lettermint.co/promo-codes-and-discounts/students) [FREE] - Get Lettermint Starter for free for six months (normally €60) to send transactional emails with your projects.
+
+
 
 ## CI / CD
 
