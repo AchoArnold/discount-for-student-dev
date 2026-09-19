@@ -169,7 +169,7 @@ Table of Contents
 
 ## PaaS
 
-* [Amazon Web Services](https://www.awseducate.com/application) [FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
+* [Amazon Web Services](https://aws.amazon.com/education/awseducate/) [FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
 
 * [Google Cloud Platform](https://cloud.google.com) [TEMPORARILY FREE] - Access Cloud Services and G-Suite either on a trial of 14 days or register for one year through educational license or by card details.
 
@@ -212,7 +212,7 @@ Table of Contents
 
 ## Maps
 
-* [Mapbox](https://www.mapbox.com/community/education) [CREDIT] - A mapping platform for developers. 5 GB of storage for your own custom data.
+* [Mapbox](https://www.mapbox.com/education) [CREDIT] - A mapping platform for developers. 5 GB of storage for your own custom data.
 
 ## Localization
 
@@ -232,7 +232,7 @@ Table of Contents
 
 * [NameCheap](https://nc.me) [FREE/DISCOUNT] - One year domain name registration on the .me TLD, and deeply discounted registrations on .io, .tech, .com, and .website. Inludes optional free year of hosted Ghost blogging platform or Exposure photo website.
 
-* [.tech](https://get.tech/students) [DISCOUNT] - One year registration on .tech TLD for $0.99, with free renewals for referrals.
+* [.tech](https://get.tech/github-student-developer-pack) [DISCOUNT] - One year registration on .tech TLD for $0.99, with free renewals for referrals.
 
 * [name.com](https://www.name.com/partner/github-students)[FREE] - Domain names, web hosting, and websites. One free domain name and free Advanced Security (SSL, privacy protection, and more) via [Github Student Developer Pack](https://education.github.com/pack).
 
