@@ -332,6 +332,8 @@ Table of Contents
 
 * [Github Student Developer Pack](https://education.github.com/pack/) [FREE] - The GitHub Student Developer Pack is a collection of tools and resources that are available to students for free. It includes access to various developer tools, cloud services, and learning resources.
 
+* [freEDU](https://www.freedu.net/) [FREE] - Directory of 147 free and discounted student offers (software, hosting, domains, learning tools), each checked and linked to the step-by-step way to claim it.
+
 ## Learning Resources
 
 * [Association of Computing Machinery with Digital Library](https://www.acm.org/membership/membership-options) [DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year.
