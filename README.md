@@ -334,6 +334,8 @@ Table of Contents
 
 * [freEDU](https://www.freedu.net/) [FREE] - Directory of 147 free and discounted student offers (software, hosting, domains, learning tools), each checked and linked to the step-by-step way to claim it.
 
+* [Student AI Deals](https://aifree.dev/student-ai-deals) [FREE] - A verified list of AI tools and credits students can get free with a student email or GitHub Education, such as Copilot Pro, Azure for Students and JetBrains, with the exact requirements for each.
+
 ## Learning Resources
 
 * [Association of Computing Machinery with Digital Library](https://www.acm.org/membership/membership-options) [DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year.
