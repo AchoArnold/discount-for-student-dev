@@ -142,6 +142,10 @@ Table of Contents
 
 ## SaaS
 
+
+## SaaS
+
+* [ShipFree](https://shipfree.dev/) [FREE] - Curated directory of 154 free credits and offers for student developers. Every listing is re-verified weekly with expiry tracking and a change log of discontinued programs. Free to use, no registration.
 * [TailoredCV.ai](https://tailoredcv.ai/) [DISCOUNT] - Tailor your CVs to match job requirements with AI-powered assistance. Students get a 20% discount on TailoredCV subscriptions using the coupon code `STUDENTS20` at checkout. Start showcasing your skills and experiences effectively today!
  
 * [Taskade - Team Productivity](https://www.taskade.com/) [DISCOUNT] -  Students get 50% permanent discount on Taskade Pro subscriptions. Use the coupon code "students50" on checkout and start collaborating on Taskade with team task, notes and chat.
