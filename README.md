@@ -320,6 +320,8 @@ Table of Contents
 
 * [HoneyBadger](https://education.github.com/pack)[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
 
+* [Kilobat](https://kilobat.app/students) [FREE] - macOS network monitoring app; eligible students aged 13+ get one year of Pro for two Macs with a school email, renewable while studying.
+
 ## Software Packs
 
 * [Azure for Students](https://azureforeducation.microsoft.com/en-us/Institutions) [FREE / DISCOUNT] - Subscriptions provide access to Azure services. Azure for Students gives you $100 credit for 12 months. It includes access to more than 25 free services, including compute, network, storage, and databases. Any charges incurred during this period are deducted from the credit.
