@@ -36,6 +36,7 @@ Table of Contents
   * [Learning Resources](#learning-resources)
   * [Data science](#data-science)
   * [Screen Recorders](#screen-recorders)
+  * [Lists and trackers](#lists-and-trackers)
 
 
 
@@ -385,6 +386,10 @@ Table of Contents
 
 * [1001 Record](https://1001record.com/educational-discount) [DISCOUNT] - 1001 Record is the best screen recording app for Mac with a built-in annotation tool and more. 60% Discount for students.
 
+
+## Lists and trackers
+
+  * [StudentStack](https://studentstack-gamma.vercel.app) [FREE] - A dated tracker of student discounts on AI and dev tools, free tiers, AI credits, hackathons and free AI tools. Each entry is checked against the company's own page. Closed offers stay on the list, crossed out. Includes a UK-eligibility page.
 
 # License
 
