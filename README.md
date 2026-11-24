@@ -376,6 +376,7 @@ Table of Contents
 * [GitHub Foundations Certification](https://examregistration.github.com/certification/GHF) [FREE] - Waived fee on your first GitHub Foundations Certifications exam (worth $99).
 * [Codedex](https://www.codedex.io/github-students) [FREE] - Verified students receive 6 months of Codédex Club, a premium membership for free.
 * [AlgoExpert](https://www.algoexpert.io/github-students) [FREE] - Free access to 20 coding interview questions on AlgoExpert, as well as a 10% discount on all AlgoExpert products.
+* [TCM Security](https://certifications.tcm-sec.com/) [DISCOUNT] - Practical, hands-on cybersecurity certifications (PNPT, PJPT and more). Students get a 20% off coupon.
 
 ##  Data science
 
