@@ -393,6 +393,8 @@ Table of Contents
 
   * [StudentStack](https://studentstack-gamma.vercel.app) [FREE] - A dated tracker of student discounts on AI and dev tools, free tiers, AI credits, hackathons and free AI tools. Each entry is checked against the company's own page. Closed offers stay on the list, crossed out. Includes a UK-eligibility page.
 
+  * [Free LLM API Hub](https://freellmapihub.com) [FREE] - A dated, sourced tracker of free tiers and trial credits from 60+ LLM API providers, with a free JSON API and CSV for student projects and hackathons.
+
 # License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
