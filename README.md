@@ -86,6 +86,8 @@ Table of Contents
   
   * [itemis CREATE(formerly Yakindu)](https://info.itemis.com/products/itemis-create/academic/order/) [FREE] - An integrated modelling environment for the specification and development of reactive, event-driven systems based on the concept of state machines. itemis CREATE Professional Edition free after application.
 
+  * [Perch](https://perch.run/students) [DISCOUNT] - A macOS menu bar app that shows every Claude Code, Codex, Cursor and other AI coding agent session, and lets you answer their permission prompts from your Mac, iPhone or Apple Watch. 50% off the one-time licence for students with a school email address.
+
 
 ## Version Control
 
