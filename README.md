@@ -122,6 +122,8 @@ Table of Contents
 
 * [InterServer](https://www.interserver.net/webhosting/student-webhosting.html/) [FREE] - Standard Web Hosting Package for Free for the first year for students.
 
+* [Simafri VPS for Students](https://www.simafri.com/en/free-vps-for-students/) [FREE] - Free VPS (1 vCPU, 2 GB RAM, 20 GB NVMe, root SSH) for 10 months for students whose school partners with Fondation Simafri; the school confirms enrollment.
+
 
 ## Design and Photo Editing
 
